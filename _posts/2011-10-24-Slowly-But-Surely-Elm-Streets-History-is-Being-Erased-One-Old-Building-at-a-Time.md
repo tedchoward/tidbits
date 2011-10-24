@@ -5,6 +5,7 @@ link: http://blogs.dallasobserver.com/unfairpark/2011/10/slowly_but_surely_elm_s
 date: 2011-10-24 13:32:11
 ---
 
+Robery Wilonsky:
 > Those buildings are just two being added to the growing pile of rubble up
 > and down Elm, which is slowly but surely being shed of whatever history that
 > remains: "In the course of eight months," writes Noah, "807 Elm, 1600 Elm,
