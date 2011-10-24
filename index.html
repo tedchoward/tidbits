@@ -1,0 +1,20 @@
+---
+layout: default
+title: Ted's Tidbits
+---
+{% for post in paginator.posts %}
+<article>
+  <header>
+  {% if post.link %}
+    <h1><a href="{{ post.link }}">{{ post.title }}</a></h1>
+  {% else %}
+    <h1>{{ post.title }}</h1>
+  {% endif %}
+  <p>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A, %B %d, %Y" }}</time>
+    <a href="{{ post.url }}">∞</a>
+  </p>
+  </header>
+  {{ post.content }}
+  </article>
+{% endfor %}
