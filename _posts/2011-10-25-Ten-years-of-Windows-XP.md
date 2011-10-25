@@ -5,6 +5,7 @@ link: http://arstechnica.com/microsoft/news/2011/10/ten-years-of-windows-xp-how-
 date: 2011-10-25 13:21:26
 ---
 
+Peter Bright:
 > But in many ways, the thing that cemented Windows XP's status wasn't Windows
 > XP itself: it was the lack of any successor. Microsoft's Longhorn project,
 > an ambitious plan to radically rework Windows, with an all-new set of APIs
