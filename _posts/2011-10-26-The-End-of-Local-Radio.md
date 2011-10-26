@@ -5,6 +5,7 @@ link: http://blogs.dallasobserver.com/unfairpark/2011/10/the_end_of_local_radio_
 date: 2011-10-26 12:40:19
 ---
 
+Robert Wilonsky:
 > Clear Channel owns and operates six radio stations in the Dallas-Fort Worth
 > market: KDGE-FM, KDMX-FM, KEGL-FM, KFXR-AM, KHKS-FM and KZPS-FM. But several
 > times this morning, Friends of Unfair Park have sent [this piece from Time
