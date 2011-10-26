@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The End of Local Radio"? Reports Say Clear Channel May Be About to Go All "Robotics."
+title: '"The End of Local Radio"? Reports Say Clear Channel May Be About to Go All "Robotics."'
 link: http://blogs.dallasobserver.com/unfairpark/2011/10/the_end_of_local_radio_reports.php
 date: 2011-10-26 12:40:19
 ---
