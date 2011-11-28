@@ -16,7 +16,7 @@
   <item>
     <title>{{ post.title }}</title>
     {% if post.link %}
-    <link>{{ post.link }}</link>
+    <link>{{ post.link | xml_escape }}</link>
     {% else %}
     <link>{{site.url}}{{ post.url }}</link>
     {% endif %}
