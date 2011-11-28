@@ -11,17 +11,17 @@
     <managingEditor>ted@tedchoward.com (Ted C. Howard)</managingEditor>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-  </channel>{% for post in site.posts %}
-  <item>
-    <title>{{ post.title }}</title>
-    {% if post.link %}
-    <link>{{ post.link | xml_escape }}</link>
-    {% else %}
-    <link>{{site.url}}{{ post.url }}</link>
-    {% endif %}
-    <description>{{ post.content | xml_escape }}</description>
-    <guid isPermalink="true">{{ site.url}}{{ post.url }}</guid>
-    <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-  </item>{% endfor %}
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>{% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      {% if post.link %}
+      <link>{{ post.link | xml_escape }}</link>
+      {% else %}
+      <link>{{site.url}}{{ post.url }}</link>
+      {% endif %}
+      <description>{{ post.content | xml_escape }}</description>
+      <guid isPermalink="true">{{ site.url}}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    </item>{% endfor %}
+  </channel>
 </rss>
