@@ -8,8 +8,8 @@ date: 2011-12-05 09:30:00
 Richard Beck:
 > *O Holy Night*, it turns out, was a song of political resistance and
 > protest. Imagine Americans singing in the years leading up to the
-> Civil War the lyrics *Chains shall He break for the slave is our
-> brother; And in His name all oppression shall cease*.
+> Civil War the lyrics: "*Chains shall He break for the slave is our
+> brother; And in His name all oppression shall cease*."
 > 
 > *O Holy Night* is a political protest. A Christmas carol as resistance
 > literature.
