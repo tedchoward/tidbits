@@ -6,7 +6,7 @@ date: 2011-12-07 08:16:00
 ---
 
 Waldo Jaquith:
-> Further reflection revealed that it's quite impossible--nearly
+> Further reflection revealed that it's quite impractical--nearly
 > impossible--to make a cheeseburger from scratch. Tomatoes are in
 > season in the late summer. Lettuce is in season in spring and fall.
 > Large mammals are slaughtered in early winter. The process of making
