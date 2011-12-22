@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>Ted's Tidbits: {{ page.title }}</title>
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/rss.xml">
     <link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400italic,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/post.css" type="text/css" media="screen">
@@ -19,6 +19,9 @@
     </script>
   </head>
   <body>
+    <header>
+      <h1><a href="index.html">{{ site.title }}</a></h1>
+    </header>
     <article>
       <header>
         {% if page.link %}
@@ -31,8 +34,8 @@
     {{ content }}
     </article>
     <nav>
-      <a href="{{ page.previous.url }}">&lt;&lt; {{ page.previous.title }}</a>
-      <a href="{{ page.next.url }}">{{ page.next.title }} &gt;&gt;</a>
+      {% if page.previous.title %} <a href="{{ page.previous.url }}">&lt;&lt; {{ page.previous.title }}</a> {% endif %}
+      {% if page.next.title %} <a href="{{ page.next.url }}">{{ page.next.title }} &gt;&gt;</a> {% endif %}
     </nav>
   </body>
 </html>

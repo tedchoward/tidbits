@@ -13,6 +13,20 @@ body {
   //font-family: 'Sorts Mill Goudy', serif;
 }
 
+body>header {
+  margin-top: 1em;
+}
+
+body>header>h1>a {
+  text-decoration: none;
+  color: #111;
+}
+
+body>header>h1>a:hover {
+  text-decoration: underline;
+  color: #111;
+}
+
 body>article {
   margin-bottom: 1em;
   border-bottom: 1px solid black;
@@ -31,10 +45,11 @@ body>article>header>p {
   border-bottom: 1px solid black;
 }
 
+body>nav>a:last-of-type {
+  float: right;
+}
+
 body>nav>a:first-of-type {
   float: left;
 }
 
-body>nav>a:last-of-type {
-  float: right;
-}
