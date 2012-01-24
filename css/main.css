@@ -1,0 +1,24 @@
+body {
+  font: normal 100% Helvetica, Arial, sans-serif;
+  margin: 40px auto;
+  padding: 0 1em;
+  max-width: 61.75em; /* 988px / 16px = 61.75em */
+}
+
+body > header {
+  margin-left: 14.575%; /* 144px / 988px = 0.14575 */
+  width: 70.85%; /* 700px / 988px = 0.7085 */
+  font-family: Georgia, serif;
+  font-size: 1.5em; /* 14px / 16px = 1.5em */
+}
+
+body > aside {
+  width: 12.551%; /* 124px / 988px = 0.12551 */
+  float: left;
+}
+
+body > section {
+  width: 85.425%; /* 844px / 988px = 0.85425 */
+  float: right;
+}
+
