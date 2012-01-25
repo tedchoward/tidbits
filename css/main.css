@@ -1,5 +1,5 @@
 body {
-  font: normal 100% Helvetica, Arial, sans-serif;
+  font: normal 100% 'Helvetica Neue', Arial, sans-serif;
   margin: 40px auto;
   padding: 0 1em;
   max-width: 61.75em; /* 988px / 16px = 61.75em */
@@ -8,8 +8,27 @@ body {
 body > header {
   margin-left: 14.575%; /* 144px / 988px = 0.14575 */
   width: 70.85%; /* 700px / 988px = 0.7085 */
-  font-family: Georgia, serif;
+  /*font-family: Georgia, serif;*/
   font-size: 1.5em; /* 14px / 16px = 1.5em */
+}
+
+body > header h1 {
+  margin-bottom: 0;
+}
+
+body > header h1 a {
+  text-decoration: none;
+}
+
+body > header h1 a:hover {
+  text-decoration: underline;
+}
+
+body > header h2 {
+  font-weight: normal;
+  font-size: 0.75em;
+  margin-top: 0;
+  padding-left: 0.5em;
 }
 
 body > aside {
@@ -17,8 +36,16 @@ body > aside {
   float: left;
 }
 
+body > aside ul {
+  list-style-type: none;
+  text-align: right;
+}
+
 body > section {
   width: 85.425%; /* 844px / 988px = 0.85425 */
   float: right;
 }
 
+blockquote {
+  font-style: italic;
+}
