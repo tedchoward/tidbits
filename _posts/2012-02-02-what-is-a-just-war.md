@@ -9,4 +9,4 @@ Andrew P. Napolitano
 > The problem with most wars is that they are more strategic and
 > adventurist than they are just.
 
-via [@southern__bread](https://twitter.com/#!/southern__bread/status/165051107104653312)
+via [@southern__bread](https://twitter.com/southern__bread/status/165051107104653312)
