@@ -18,7 +18,7 @@ Richard Beck:
 > ...
 > 
 > In sum, I'm back to the realization that Christianity sounds
-> different--theology, hymnody, and the bible itself---when heard from
+> different--theology, hymnody, and the bible itself--when heard from
 > the margins of society. What doesn't make sense at the centers of
 > power, prosperity and privilege often make a while lot of sense on the
 > periphery.
