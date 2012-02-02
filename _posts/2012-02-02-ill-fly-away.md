@@ -14,7 +14,9 @@ Richard Beck:
 > course when the privileged sing the song it sounds theologically
 > shallow. The privileged shouldn't be trying to fly away. They should
 > be worrying about the injustices at the gate.
+> 
 > ...
+> 
 > In sum, I'm back to the realization that Christianity sounds
 > different--theology, hymnody, and the bible itself---when heard from
 > the margins of society. What doesn't make sense at the centers of
