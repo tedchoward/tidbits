@@ -13,6 +13,7 @@ title: Colophon
 
 * [Blog Engine](https://github.com/mojombo/jekyll)
 * [Hosting](http://aws.amazon.com/s3/)
+* [S3 Sync](http://frontiernews.wordpress.com/2011/02/26/how-to-synch-a-folder-with-s3/)
 * [Bookmarklet](http://jonathanbuys.com/04-05-2011/Jekyll_Bookmarklet.html)
 * [CSS Blueprint](http://blueprintcss.org/)
 * [CSS Grid Layout](http://semantic.gs/)
