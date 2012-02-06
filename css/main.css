@@ -167,11 +167,11 @@ body {
   /*margin: 0 5%;*/
 }
 
-body>header { border-bottom: 20px solid #e44d26; }
-body>footer { border-top: 20px solid #e44d26; }
-section>aside { border-top: 20px solid #e44d26; }
+body>header { border-bottom: 20px solid #1144aa; }
+body>footer { border-top: 20px solid #1144aa; }
+section>aside { border-top: 20px solid #1144aa; }
 
-body>header, body>footer, section>aside { background: #f16529; }
+body>header, body>footer, section>aside { background: #009d91; }
 body>header hgroup {
   color: white;
   margin: 0 5%;
@@ -180,6 +180,10 @@ body>header hgroup {
 body>header hgroup h1 a {
   color: white;
   text-decoration: none;
+}
+
+body>header hgroup h1 a:visited {
+  color: white;
 }
 
 body>header hgroup h1 a:hover {
@@ -197,10 +201,10 @@ body>section {
 
 nav a {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: -10px;
   padding: 15px 0;
 
-  background: #e44d26;
+  background: #1144aa;
   color: white;
 
   text-align: center;
