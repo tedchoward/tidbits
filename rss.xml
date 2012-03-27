@@ -13,7 +13,7 @@
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>{% for post in site.posts %}
     <item>
-      <title>{{ post.title }}</title>
+      <title>{{ post.title | xml_escape }}</title>
       {% if post.link %}
       <link>{{ post.link | xml_escape }}</link>
       {% else %}
