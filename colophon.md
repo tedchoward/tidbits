@@ -17,6 +17,7 @@ title: Colophon
 * [Bookmarklet](http://jonathanbuys.com/04-05-2011/Jekyll_Bookmarklet.html)
 * [CSS Blueprint](http://blueprintcss.org/)
 * [CSS Grid Layout](http://semantic.gs/)
+* [Glyphicons](http://glyphicons.com/)
 * Inspiration
   * [The Minimal Blogging Tool](http://scripting.com/stories/2011/01/05/upcomingTheMinimalBlogging.html)
   * [Daring Fireball](http://daringfireball.net/)
