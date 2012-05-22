@@ -34,7 +34,7 @@ He says it this way:
 
 His number one rule to follow in the pursuit of truth is worth our
 consideration today:
-> Never to hold any sentiment or proposition as more certain that the
+> Never to hold any sentiment or proposition as more certain than the
 > evidence on which it rests; or in other words that our assent to any
 > proposition should be precisely proportioned to the evidence on which
 > it rests.
