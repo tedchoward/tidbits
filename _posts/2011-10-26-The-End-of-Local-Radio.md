@@ -13,4 +13,4 @@ Robert Wilonsky:
 > local voices.
 
 
-[1]: http://timeoutchicago.com/arts-culture/chicago-media-blog/14999695/gloom-and-doom-clear-channel’s-dark-future-begins-today
+[1]: http://timeoutchicago.com/arts-culture/chicago-media-blog/14999695/gloom-and-doom-clear-channel's-dark-future-begins-today

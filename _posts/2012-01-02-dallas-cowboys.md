@@ -11,5 +11,5 @@ Robert Wilonsky:
 > Night Football* shot of owner and general manager Jerry Jones, his
 > head buried in his hands, would become *the* defining shot of an 8-8
 > season that felt much, much worse from the very first game.
-
+<!--more-->
 ![Congratulations!](/images/2012/01/02/jones.jpg)
