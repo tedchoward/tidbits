@@ -43,7 +43,7 @@
         <p>Posted on <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> <a href="{{ page.url }}">∞</a>
 </p>
       </header>
-    {{ content }}
+    {{ content | mark_excerpt }}
     </article>
     <footer>
     Copyright &copy; {{ site.time | date: "%Y" }} <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#x74;&#x65;&#x64;&#64;&#x74;&#x65;&#100;&#x63;&#x68;&#111;&#119;&#x61;&#114;&#100;&#46;&#99;&#111;&#109;">Ted C. Howard</a> <a href="/rss.xml"><img src="/images/xml.png" alt="XML" width="36" height="14"></a>
