@@ -61,7 +61,9 @@ strong { font-weight: bold; }
 em { font-style: italic; }
 sup { vertical-align: super; font-size: smaller; }
 
-ol { padding-left: 1.5em; list-style-type: decimal; }
+ul, ol { padding-left: 1.5em; }
+ol { list-style-type: decimal; }
+ul { list-style-type: disc; }
 
 body>header {
   @include clearfix;
@@ -127,7 +129,14 @@ section>hr {
 
 }
 
-
+section>nav>a {
+  &:last-of-type {
+    @include float-right;
+  }
+  &:first-of-type {
+    @include float-left;
+  }
+}
 
 article h2 {
   @include leader(0.5);
