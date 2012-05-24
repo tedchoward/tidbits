@@ -38,7 +38,7 @@
         {% if page.link %}
         <h2><a href="{{ page.link }}">{{ page.title }}</a></h2>
         {% else %}
-        <h1>{{ page.title }}</h1>
+        <h2>{{ page.title }}</h2>
         {% endif %}
         <p>Posted on <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> <a href="{{ page.url }}">∞</a>
 </p>
