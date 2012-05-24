@@ -14,5 +14,5 @@ Megan Howard:
 
 I didn't believe at love at first sight until January 10 at 2:25am when
 I first set eyes on my son.
-
-![Henry And Daddy](http://static.tedchoward.com/photos/2012/01/13/henryAndDaddy/medium640.jpg)
+<!--more-->
+->![Henry And Daddy](http://static.tedchoward.com/photos/2012/01/13/henryAndDaddy/medium.jpg)<-

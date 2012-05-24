@@ -5,8 +5,6 @@ link: http://blogs.dallasobserver.com/cityofate/2011/11/sign_o_the_times_pizza_c
 date: 2011-11-29 10:25:00
 ---
 
-![Pizza Hut: Now Serving Vegetables][3]
-
 Nick Rallo:
 > Before we all stuffed our bodies with Thanksgiving last week,
 > [Congress declared pizza a vegetable][1]. Only not really. Tomato
@@ -15,6 +13,8 @@ Nick Rallo:
 > taken][2] (via Reddit's San Antonio page), Pizza Hit is enjoying
 > Congress's findings.
 
+<!--more-->
+![Pizza Hut: Now Serving Vegetables][3]
 
 [1]: http://www.huffingtonpost.com/david-katz-md/pizza-vegetable_b_1114027.html
 [2]: http://www.reddit.com/user/ipn8bit
