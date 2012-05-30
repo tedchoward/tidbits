@@ -13,7 +13,7 @@ layout: default
   </header>
   {% if post.excerpt %}
     {{ post.excerpt }}
-    <p><a href="{{ post.url }}/#more">Continue Reading &rarr;</a></p>
+    <p><a href="{{ post.url }}#more">Continue Reading &rarr;</a></p>
   {% else %}
     {{ post.content | mark_excerpt }}
   {% endif %}
