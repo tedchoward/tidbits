@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disrupy Your Church's Status Quo ... Or Else?
+title: Disrupt Your Church's Status Quo ... Or Else?
 link: http://www.patheos.com/blogs/missionalshift/2012/06/disrupt-your-churchs-status-quo-or-else/
 date: 2012-06-05 11:11:00
 ---
