@@ -39,7 +39,7 @@ his story.
 Simon 'saw' the woman the same way Tim Bray first 'saw' the lost girl in San
 Francisco and the same way I 'see' most strangers on the street.
 
-Yet again, I find more in common wihe the Pharisees than Jesus. What am
+Yet again, I find I have more in common with the Pharisees than Jesus. What am
 I so afraid of? What will happen if I actually *look* at the people I
 pass? How much love am I keeping out as I cling to my fear?
 
