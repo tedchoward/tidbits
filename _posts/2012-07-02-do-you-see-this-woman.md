@@ -27,7 +27,7 @@ know that it is my fear that casuses me to judge.
 
 I wonder if that was true of Simon, the Pharisee that Jesus visited in
 [Luke 7.36-50][3]. A woman shows up at the meal and begins
-crying and washes Jesus' feet with her tears. The Simon is quick to note
+crying and washes Jesus' feet with her tears. Simon is quick to note
 that the woman is a sinner and is offended that Jesus is allowing this
 action to take place. Jesus takes the opportunity to tell Simon a story,
 but what gets me the most is the comment Jesus makes after he concludes
