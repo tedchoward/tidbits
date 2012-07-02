@@ -8,7 +8,7 @@ date: 2012-07-02 10:51:00
 > I was walking along near these parts in early evening, and a very tall
 > very thin very young black womn suddenly materialized at my elbow:
 > "Excuse me, hey!" I averted my face reflexively and stepped out a bit
-> and she said "Oh my god no I don't want anything, just do you knpw the
+> and she said "Oh my god no I don't want anything, just do you know the
 > nearest BART?" and then I actually *looked* at her and she was just
 > this ordinary girl in a hurry but lost. I told her the way and managed
 > a smile, even though I hated myself.
