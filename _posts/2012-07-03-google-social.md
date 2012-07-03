@@ -13,4 +13,4 @@ Sam Biddle:
 > impressive things that anyone actually wants?
 
 Great article that gets to the heart of muy feelings on Google: with
-every new cool thing they do, the seem just a little creepier.
+every new cool thing they do, they seem just a little creepier.
