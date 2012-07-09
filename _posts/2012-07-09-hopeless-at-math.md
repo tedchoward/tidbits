@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The 11 Ways that Consumers are Hopeless at Math
+link: http://www.theatlantic.com/business/archive/2012/07/the-11-ways-that-consumers-are-hopeless-at-math/259479/
 date: 2012-07-09 09:28:00
 ---
 
