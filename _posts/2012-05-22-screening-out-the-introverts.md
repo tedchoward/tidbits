@@ -11,7 +11,7 @@ William Pannapacker:
 > escalating risk-taking in pursuit of success, narrowly defined. In
 > other words, extroverts--amplifying each other's groundless
 > enthusiasms--could be responsible for the economic crisis because the
-> do not listen to introverts, even when there are some around (and theu
+> do not listen to introverts, even when there are some around (and they
 > are not trying to pass as extroverts).
 
 Introversion is definitely not generally respected in our culture

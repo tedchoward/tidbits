@@ -22,7 +22,7 @@ good place to add my commentary.  This is important because often I will
 want to share a link that I do not agree with, but find interesting.
 When you post a link to Twitter, it's implied that you like and agree
 with what you've just linked to.  I really want some space (more than
-140 charaters minus the url) to add my 2 cents.
+140 characters minus the url) to add my 2 cents.
 
 This blog represents the combination of the full blog and link blog.
 Most posts will be just a link to something else with a quote and some

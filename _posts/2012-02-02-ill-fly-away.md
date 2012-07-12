@@ -8,7 +8,7 @@ date: 2012-02-02 10:26:00
 Richard Beck:
 > Because here's the deal, does *I'll Fly Away* make any sense when it's
 > sung by rich people of power and privilege? I mean, what the heck are
-> you flyig away from? Life in suburbia? The Caramel Macchiatos at
+> you flying away from? Life in suburbia? The Caramel Macchiatos at
 > Starbucks? The vacations at the beach? The fact that you have clean
 > water, indoor plumbing, central heating/air, and two cars? ... So of
 > course when the privileged sing the song it sounds theologically

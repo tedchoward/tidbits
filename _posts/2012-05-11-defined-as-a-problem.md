@@ -18,4 +18,4 @@ Larry James:
 > person to be avoided?
 >
 > Something to think about as we continue to dismantle stereotypes that
-> plagure our perspectives and continue to injure others.
+> plague our perspectives and continue to injure others.

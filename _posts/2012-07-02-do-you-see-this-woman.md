@@ -6,7 +6,7 @@ date: 2012-07-02 10:51:00
 
 [Tim Bray][1]:
 > I was walking along near these parts in early evening, and a very tall
-> very thin very young black womn suddenly materialized at my elbow:
+> very thin very young black woman suddenly materialized at my elbow:
 > "Excuse me, hey!" I averted my face reflexively and stepped out a bit
 > and she said "Oh my god no I don't want anything, just do you know the
 > nearest BART?" and then I actually *looked* at her and she was just
@@ -23,7 +23,7 @@ I'm reminded of these words from [1 John 4.18][2]:
 
 My experience suggests that the opposite is also true: fear can keep
 love out. Why am I afraid? What am I afraid of? I don't know, but I do
-know that it is my fear that casuses me to judge.
+know that it is my fear that causes me to judge.
 
 I wonder if that was true of Simon, the Pharisee that Jesus visited in
 [Luke 7.36-50][3]. A woman shows up at the meal and begins

@@ -15,5 +15,5 @@ themselves were the ones committing the heresy?
 
 > Does your church sign advertise oneness in Christ or difference from
 > other churches? How does it do so? Does your church website market
-> your distinctiveness or your union with all chruches in Christ?
+> your distinctiveness or your union with all churches in Christ?
 

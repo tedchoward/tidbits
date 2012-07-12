@@ -19,7 +19,7 @@ by all the denominational bickering that was going on in his day. He
 called for a re-examining of all varieties of Christian religion and a
 return to primitive Christianity.
 
-His solution was to cast aside all the relgious cruft that had
+His solution was to cast aside all the religious cruft that had
 accumulated over the years, and turn to the Bible as the source of
 truth. He quickly discovered that when you make the pursuit of truth
 your primary goal, you must humble yourself and be willing to admit when

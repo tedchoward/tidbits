@@ -7,7 +7,7 @@ date: 2011-12-01 13:21:00
 
 Jason Heid collects some choice quotes from various national media
 outlets discussing last night's episode of *Top Chef: Texas* which was
-filmed in Dallas.  I'ts a wonderful collection of gems such as
+filmed in Dallas.  It's a wonderful collection of gems such as
 > What we learned here is that rich people in Dallas are freaking weird.
 
 Thank you Bravo, for bringing this wonderful attention to my beloved

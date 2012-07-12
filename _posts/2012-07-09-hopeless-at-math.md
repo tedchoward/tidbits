@@ -21,7 +21,7 @@ Derek Thompson:
 
 The rest of this list is great too. There are so many ways that we as
 consumers are being duped. Derek Thompson puts it this way: "We're not
-stupid. Jus susceptible."
+stupid. Just susceptible."
 
 
 [1]: http://www.amazon.com/Priceless-Myth-Fair-Value-Advantage/dp/0809078813

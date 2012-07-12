@@ -12,7 +12,7 @@ Glenn Fleishman:
 > 3. Tap the empty circular (radio-style) button to the left of the
 > unwanted message. The Forward button activates.
 > 4. Tap the Forward button.
-> 5. Enter 7726 (the numeric equivalent ot the letters S, P, A, and M on
+> 5. Enter 7726 (the numeric equivalent of the letters S, P, A, and M on
 > a telephone keypad) and tap Send.
 > 6. AT&T responds with a message asking you to send the number from
 > which the message originated (this and the spam report are cost-free

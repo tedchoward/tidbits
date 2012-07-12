@@ -7,7 +7,7 @@ date: 2012-07-09 10:08:00
 
 Jonathan Wilson-Hartgrove
 > This real alternative is not the result of a grand strategy to reform
-> our nation's broken health care system. Ite was the fruit of a
+> our nation's broken health care system. It was the fruit of a
 > community trying to be faithful to Jesus. It started with a pastor
 > praying in his hospital bed and some regular church folks talking
 > about how they could share their money.

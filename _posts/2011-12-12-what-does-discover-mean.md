@@ -11,7 +11,7 @@ Twitter organizing their user interface under two categories: *Connect*
 and *Discover*.
 
 Their PR explains it this way (emphasis mine):
-> We’ve simplified the design to make it easier than ever to follow what
+> We've simplified the design to make it easier than ever to follow what
 > you care about, **connect** with others and **discover** something new.
 
 The problem with *Connect* and *Discover* is that they are not words
@@ -25,7 +25,7 @@ boxed software, this would be a documentation issue. In the post-manual
 world that we live in today, the user interface is to blame.
 
 The answer is to simplify, which means we need less options. Before
-there were @replies, #hastags, lists, search, followers and people you
+there were @replies, #hashtags, lists, search, followers and people you
 follow. I can imagine the meeting where someone asks: 
 > What if we could reduce all those features to two sections. Two is
 > less than six, so that makes it simpler which makes it better. We
@@ -35,7 +35,7 @@ follow. I can imagine the meeting where someone asks:
 That's how you come up with *Connect* and *Discover*. These are abstract
 concepts, not product features. To someone
 who already knows what Twitter is capable of, *Connect* and *Discover*
-are great words that succintly distill the full potential of Twitter.
+are great words that succinctly distill the full potential of Twitter.
 To someone that doesn't know anything about Twitter, these words mean
 nothing. They need to be explained in the context of Twitter.
 

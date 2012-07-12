@@ -12,5 +12,5 @@ Sam Biddle:
 > having fun. Google's making plenty of impressive things--but are they
 > impressive things that anyone actually wants?
 
-Great article that gets to the heart of muy feelings on Google: with
+Great article that gets to the heart of my feelings on Google: with
 every new cool thing they do, they seem just a little creepier.

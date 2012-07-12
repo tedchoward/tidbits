@@ -6,7 +6,7 @@ date: 2011-11-28 11:18:00
 ---
 
 Marco Arment:
-> Previous-me tried to presuade everyone to switch to my setup, but I
+> Previous-me tried to persuade everyone to switch to my setup, but I
 > now know that it's not worth the effort. I'll never know someone
 > else's requirements, environment, or priorities as well as they do. I
 > don't know shit about Windows or Outlook or architecture.

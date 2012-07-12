@@ -12,4 +12,4 @@ Mat Honan:
 > even deliver the highest quality search results at a default
 > setting*--the most basic thing people have come to expect from Google,
 > the very thing its name has become synonymous with--why should you
-> trust it with yout personal data?
+> trust it with your personal data?

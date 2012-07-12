@@ -7,7 +7,7 @@ date: 2011-12-16 11:00:00
 
 Dan Bouchelle:
 > Whether you like it, love it, fear it or loathe it, the dream below is
-> represenative of many in a generation raised in our churches who have
+> representative of many in a generation raised in our churches who have
 > stuck it out but are struggling to live out their faith in our current
 > setting.
 

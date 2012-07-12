@@ -7,8 +7,8 @@ date: 2011-12-16 10:44:00
 
 John Crist:
 > **The "Giving-Gifts-With-Subtle-Hints" Parents**: 
-> When I was 13 I got deoderant for Christmas. Thanks mom. When did you
-> realize I should start wearing deoderant? April? And you decided to
-> wait nine months because you figured it would be less akward that just
+> When I was 13 I got deodorant for Christmas. Thanks mom. When did you
+> realize I should start wearing deodorant? April? And you decided to
+> wait nine months because you figured it would be less awkward that just
 > setting it on my sink one morning and saying, "Use this." It was more
-> akward at Christmas. Trust me.
+> awkward at Christmas. Trust me.

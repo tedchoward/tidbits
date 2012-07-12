@@ -10,11 +10,11 @@ java.net:
 > tested on Mac OS X 10.6.8 and 10.7.0.
 
 This is an important first step in the new world order for Java and Mac
-OS X.  Java 7 will be the first Java relase for the Mac not released by
+OS X.  Java 7 will be the first Java release for the Mac not released by
 Apple.  Once upon a time, the Mac was considered the best platform for
-Java.  When Apple annouced it would discontinue official support for
+Java.  When Apple announced it would discontinue official support for
 Java, many began to question the future of Java on the Mac.
 
-As a Java developer, I hope Oracle will contine to put out a quality
+As a Java developer, I hope Oracle will continue to put out a quality
 product so that I can continue to make my living on my platform of
 choice.

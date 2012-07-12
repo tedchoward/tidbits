@@ -8,7 +8,7 @@ date: 2011-11-29 10:51:00
 Joel Spolsky
 > If we took down everything somebody wanted us to take down, the
 > Internet would be worse. Right now, under the DMCA, we require the
-> person making the compaint to send us a complete DMCA take down
+> person making the complaint to send us a complete DMCA take down
 > notice. ... We respond by notifying the person who posted the
 > material, giving them a chance to make a case for why the material is
 > non-infringing. ... The SOPA dramatically alters the careful balance

@@ -20,7 +20,7 @@ entire theology.
 
 "Faith **in** Christ" implies that we have to do something to attain our
 salvation; we must have faith. "Faith **of** Christ" places the burden
-on Jesus. It is beacuse of his faithfulness that we are saved. That's a
+on Jesus. It is because of his faithfulness that we are saved. That's a
 pretty significant difference.
 
 Words matter, especially the little ones.
