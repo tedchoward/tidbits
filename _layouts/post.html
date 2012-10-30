@@ -52,7 +52,9 @@
             {% endif %}
             <p>Posted on <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> <a href="{{ page.url }}">∞</a></p>
           </header>
+          <div class="body">
         {{ content | mark_excerpt }}
+      </div>
         </article>
       </section>
       <footer>

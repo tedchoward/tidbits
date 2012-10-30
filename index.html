@@ -11,12 +11,14 @@ layout: default
   {% endif %}
   <p>Posted on <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A, %B %d, %Y" }}</time> <a href="{{ post.url }}">∞</a></p>
   </header>
+  <div class="body">
   {% if post.excerpt %}
     {{ post.excerpt }}
     <p><a href="{{ post.url }}#more">Continue Reading &rarr;</a></p>
   {% else %}
     {{ post.content | mark_excerpt }}
   {% endif %}
+  </div>
   </article>
   {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
