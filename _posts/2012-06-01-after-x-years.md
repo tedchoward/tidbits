@@ -1,5 +1,5 @@
 ---
-layout post
+layout: post
 title: After X Years Programming
 link: http://scripting.com/stories/2012/06/01/afterXYearsProgramming.html
 date: 2012-06-01 13:28:00
