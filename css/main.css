@@ -1,22 +1,22 @@
-.navbar {
+/*.navbar {
   margin-top: 1em;
-}
+}*/
 
 section {
   max-width: 720px;
   margin: 0 auto;
 }
 
-article>header>h2>a:before {
+/*article>header>h2>a:before {
   content: url('/images/glyphicons_050_link.png');
   margin-right: 5px;
-}
+}*/
 
-footer {
+/*footer {
   margin: 2em 0 1em;
-}
+}*/
 
-.body {
+/*.body {
   font-family: Georgia, serif;
   font-size: 16px;
-}
+}*/
