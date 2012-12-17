@@ -12,7 +12,7 @@ future:      true
 lsi:         false
 pygments:    true
 markdown:    rdiscount
-permalink:   date
+permalink:   /:year/:month/:title
 paginate:    10
 
 maruku:
