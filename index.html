@@ -9,7 +9,8 @@ layout: default
   {% else %}
     <h2>{{ post.title }}</h2>
   {% endif %}
-  <p>Posted on <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A, %B %d, %Y" }}</time> <a href="{{ post.url }}">∞</a></p>
+  <p>Posted on <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A, %B %d, %Y" }}</time> <a href="{{ post.url }}">∞</a>
+  <a href="{{ post.url }}#disqus_thread"></a></p>
   </header>
   {% if post.excerpt %}
     {{ post.excerpt }}
