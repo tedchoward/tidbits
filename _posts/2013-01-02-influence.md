@@ -23,6 +23,8 @@ The truth is, every one of has influence. Influence works like a radio
 signal. It's strongest when your right next to the tower, and the
 further away you get, the weaker the signal gets.
 
+-> [![How to Save the World Part I: Spheres of Influence](http://farm1.staticflickr.com/106/284998971_571abcbfae.jpg =500x493)][1] <-
+
 I have the most influence on those closest to me: my family, my
 friends, my coworkers, my neighbors. I have the least influence on those
 I see or speak with rarely.
@@ -39,3 +41,5 @@ we need to live with these questions:
 
 1. What is the scope of your influence?
 2. What should you do with it?
+
+[1]: http://www.flickr.com/photos/veraciousjess/284998971/ "How to Save the World Part I: Spheres of Influence by veracious jess, on Flickr"
