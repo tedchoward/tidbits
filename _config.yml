@@ -23,7 +23,9 @@ maruku:
   png_url:    /images/latex
 
 rdiscount:
-  extensions: [smart]
+  extensions:
+    - smart
+    - footnotes
 
 kramdown:
   auto_ids: true,

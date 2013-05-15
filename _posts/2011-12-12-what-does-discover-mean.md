@@ -17,7 +17,7 @@ Their PR explains it this way (emphasis mine):
 The problem with *Connect* and *Discover* is that they are not words
 people use to describe routine actions. Instead they are vague
 words that convey a range of meanings instead of describing specific
-activities<sup id="fnr-1-2011-12-12">[1](#fn-1-2011-12-12)</sup>.
+activities[^1].
 
 I actually get where they're coming from. There is a perceived problem
 that people don't really know how to use Twitter. In the old days of
@@ -43,16 +43,13 @@ The reason I know this is because [Josh Gertzen][8] and I made the same
 mistake with [TileStack][5].
 
 We needed a name for the button that brought up the
-stack editor.<sup id="fnr-2-2011-12-12">[2](#fn-2-2011-12-12)</sup> We
-wanted to convey to the user that launching the editor was a safe
-operation, that any changes they made would not be applied to the stack
-they were viewing.<sup id="fnr-3-2011-12-12">[3](#fn-3-2011-12-12)</sup>
-For that reason, we didn't want to use '*Edit*', because '*Edit*' made it
-sound like you could modify something that someone else had made. We had
-many long conversations and debates about what to call the button. The
-thesaurus was consulted. Finally we chose a word<sup
-id="fnr-4-2011-12-12">[4](#fn-4-2011-12-12)</sup>: '*Customize this
-stack*'.
+stack editor.[^2] We wanted to convey to the user that launching the
+editor was a safe operation, that any changes they made would not be
+applied to the stack they were viewing.[^3] For that reason, we didn't
+want to use '*Edit*', because '*Edit*' made it sound like you could
+modify something that someone else had made. We had many long
+conversations and debates about what to call the button. The thesaurus
+was consulted. Finally we chose a word[^4]: '*Customize this stack*'.
 
 The idea was that '*Customize*' implied that you were creating a custom
 version of the stack you were modifying instead of modifying the
@@ -77,8 +74,7 @@ that would convey this ability as well as the fact that it is still a
 After another long round, we finally settled on '*Inspect*'. The word
 sounds pretty harmless. You're just looking around to see how something
 worked. There's also the notion of an [Inspector Window][7] which was
-essentially what our editor was.<sup
-id="fnr-5-2011-12-12">[5](#fn-5-2011-12-12)</sup>
+essentially what our editor was.[^5]
 
 Do you care to guess what the impact of that change was? How about
 *nothing*? We ended up making a series of videos showing how to use the
@@ -92,23 +88,15 @@ tool palette that appeared was called the *Editor* (not *Customizer* or
 *Inspector*). Those words were forced because the natural word wasn't
 deemed to be good enough. This just exposes that we weren't as smart as
 we thought we were.  Eventually we broke down and just called the
-button '*Edit*'<sup id="fnr-6-2011-12-12">[6](#fn-6-2011-12-12)</sup>
+button '*Edit*'[^6]
 
 
-<ol>
-<li id="fn-1-2011-12-12">When was the last time you went to Twitter to 
-  <em>Connect</em>?.<a href="#fnr-1-2011-12-12">↩</a></li>
-<li id="fn-2-2011-12-12">By default, stacks were loaded in <em>play mode</em>. If a user wanted to
-   modify the stack (or see how it was built), they needed to launch the
-editor. <a href="#fnr-2-2011-12-12">↩</a></li>
-<li id="fn-3-2011-12-12">You could launch the editor on any public stack on the site, so that
-   you could see how they worked.<a href="#fnr-3-2011-12-12">↩</a></li>
-<li id="fn-4-2011-12-12">Err... phrase.<a href="#fnr-4-2011-12-12">↩</a></li>
-<li id="fn-5-2011-12-12">Without the window.<a href="#fnr-5-2011-12-12">↩</a></li>
-<li id="fn-6-2011-12-12">If you edited someone else's stack, we indicated that 
-  it was a <em>safe operation</em> by changing the <em>Save</em> button
-to a <em>Save As</em> button.<a href="#fnr-6-2011-12-12">↩</a></li>
-</ol>
+[^1]: When was the last time you went to Twitter to *Connect*?
+[^2]: By default, stacks were loaded in *play mode*. If a user wanted to modify the stack (or see how it was built), they needed to launch the editor.
+[^3]: You could launch the editor on any public stack on the site, so that you could see how they worked.
+[^4]: Err... phrase.
+[^5]: Without the window.
+[^6]: If you edited someone else's stack, we indicated that it was a *safe operation* by changing the *Save* button to a *Save As* button.
 
 [1]: http://blog.twitter.com/2011/12/lets-fly.html
 [2]: http://inessential.com/2011/12/08/on_the_tab_labels_in_the_new_twitter_app

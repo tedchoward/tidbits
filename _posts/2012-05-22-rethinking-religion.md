@@ -43,15 +43,9 @@ Too often we turn to the Bible to prove what we already know to be true.
 I fear that the "evidence" we find may often prove to be too shaky to
 support the position that we take. Instead we should open our hearts and
 minds and seek the truth. We must prayerfully question everything we
-"know" to be true.<sup id="fnr-1-2012-05-22">[1](#fn-1-2012-05-22)</sup>
+"know" to be true.[^1]
 
----
-<ol>
-<li id="fn-1-2012-05-22">Always begin your study with prayer. Pray that the Holy Spirit
-guides your study. Pray that you're not bringing a personal agenda to
-the scripture. Pray that God reveals his truth to you.<a
-href="#fnr-1-2012-05-22">&#8617;</a></li>
-</ol>
+[^1]: Always begin your study with prayer. Pray that the Holy Spirit guides your study. Pray that you're not bringing a personal agenda to the scripture. Pray that God reveals his truth to you.
 
 [1]: http://en.wikipedia.org/wiki/Alexander_Campbell_(clergyman)
 [2]: http://www.mun.ca/rels/restmov/texts/acampbell/tcb/TCB00.HTM
