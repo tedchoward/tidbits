@@ -50,7 +50,7 @@ minds and seek the truth. We must prayerfully question everything we
 <li id="fn-1-2012-05-22">Always begin your study with prayer. Pray that the Holy Spirit
 guides your study. Pray that you're not bringing a personal agenda to
 the scripture. Pray that God reveals his truth to you.<a
-href="#fnr-1-2012-05-22">&carr;</a></li>
+href="#fnr-1-2012-05-22">&#8617;</a></li>
 </ol>
 
 [1]: http://en.wikipedia.org/wiki/Alexander_Campbell_(clergyman)
