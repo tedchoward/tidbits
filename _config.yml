@@ -11,7 +11,7 @@ lsi:         false
 pygments:    true
 markdown:    rdiscount
 permalink:   /:year/:month/:title
-paginate:    10
+#paginate:    10
 
 maruku:
   use_tex:    false

@@ -37,6 +37,7 @@ blockquote {
   margin-left: 2em;
   margin-right: 2em;
   color: #666;
+  @include trailer(0.5)
 }
 
 blockquote:before, blockquote:after {
