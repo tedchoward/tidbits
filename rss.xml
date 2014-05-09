@@ -22,6 +22,7 @@
       <description>{{ post.content | xml_escape }}</description>
       <guid isPermaLink="true">{{ site.url}}{{ post.url }}</guid>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      {% if post.enclosure %}<enclosure url="{{ post.enclosure }}" length="{{ post.encLength }}" type="{{ post.encType }}" />{% endif %}
     </item>{% endfor %}
   </channel>
 </rss>
