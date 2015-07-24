@@ -1,3 +1,4 @@
+exclude: [vendor]
 safe:        false
 port:        4000
 baseurl:     /

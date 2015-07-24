@@ -11,7 +11,9 @@ Jakob Nielsen:
 > **today** is quite different from what it will likely be in the
 > **future**.
 
-[tl;dr](abbr:too long; didn't read): Mobile apps are king today, but
+tl;dr: Mobile apps are king today, but
 mobile websites are the future.
 
 via [TThor](http://tthor.com/)
+
+*[tl;dr]: too long; didn't read
