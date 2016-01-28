@@ -69,7 +69,10 @@ sup { vertical-align: super; font-size: smaller; }
 
 abbr { border-bottom: 1px dotted #666; }
 
-ul, ol { padding-left: 1.5em; }
+ul, ol {
+  padding-left: 1.5em;
+  @include trailer(0.5);
+}
 ol { list-style-type: decimal; }
 ul { list-style-type: disc; }
 
