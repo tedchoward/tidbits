@@ -83,32 +83,32 @@ Make sure the Source folder points to SimpleApp/src and set the package name to 
 ![tutorialdebugging7.png][8]
 
 Make sure the Source folder and Package are correct. Call your new Class Main and check the box to create the public static void main(String[] args) method. Click Finish. Eclipse will generate the following java code in a file called Main.java:
+{% highlight java %}
+package thinwire.apps.simple;
 
-    package thinwire.apps.simple;
-    
-    public class Main {
-    
-        /**  
-        * @param args  
-        */
-    
-        public static void main(String[] args) {
-    
-        // TODO Auto-generated method stub
-    
-        }
+public class Main {
+
+    /**  
+    * @param args  
+    */
+
+    public static void main(String[] args) {
+
+    // TODO Auto-generated method stub
+
     }
-
+}
+{% endhighlight %}
 We’re going to create a simple application that presents the user with a Dialog asking for their name. When the user types their name anc clicks the OK button, the Dialog closes and another Dialog appears to greet the user by name.
 
 The first thing we need to do is import the ThinWire UI Package and the ThinWire Event Package:  
+{% highlight java %}
+package thinwire.apps.simple;  
+import thinwire.ui.*;  
+import thinwire.ui.event.*;
 
-    package thinwire.apps.simple;  
-    import thinwire.ui.*;  
-    import thinwire.ui.event.*;
-    
-    public class Main {  
-
+public class Main {  
+{% endhighlight %}
 The thinwire.ui package contains the classes for all of the user interface components provided by thinwire. ThinWire contains over 20 components, but for this application will will be using only Divider, Label, TextField, Button, and MessageBox. The thinwire.ui.event package contains the event listeners for the UI components. In this application we will be using an ActionListener with a Button.
 
 The creation of a ThinWire web application is very straightforward and is very similar to creating a standard desktop application. Basically all we do is:
@@ -120,41 +120,41 @@ The creation of a ThinWire web application is very straightforward and is very s
 5.  Display the Dialog
 
 The code looks like this:  
-
-    public static void main(String[] args) {  
-        final Dialog dialog = new Dialog(“Simple ThinWire Application”);
+{% highlight java %}
+public static void main(String[] args) {  
+    final Dialog dialog = new Dialog("Simple ThinWire Application");
+    
+    // The position of the Dialog is relative to the browser  
+    dialog.setBounds(25, 25, 215, 210);  
+    Label label = new Label("Hello, what is your name?");
+    
+    // The position of the Label is relative to the Dialog  
+    label.setBounds(5, 5, 200, 25);
+    
+    // the Dialog and TextField are declared final so they can be  
+    // refereced inside the Button's ActionListener  
+    final TextField input = new TextField();  
+    input.setBounds(5, 35, 200, 25);
+    
+    Button button = new Button("OK");  
+    button.setBounds(55, 65, 100, 25);
+    
+    // When the button is clicked, close the dialog and greet the user  
+    button.addActionListener(Button.ACTION_CLICK, new ActionListener() {  
+        public void actionPerformed(ActionEvent ev) {  
+            dialog.setVisible(false);  
+            MessageBox.confirm("Hello " + input.getText() + "!");  
+        }
         
-        // The position of the Dialog is relative to the browser  
-        dialog.setBounds(25, 25, 215, 210);  
-        Label label = new Label(“Hello, what is your name?”);
-        
-        // The position of the Label is relative to the Dialog  
-        label.setBounds(5, 5, 200, 25);
-        
-        // the Dialog and TextField are declared final so they can be  
-        // refereced inside the Button’s ActionListener  
-        final TextField input = new TextField();  
-        input.setBounds(5, 35, 200, 25);
-        
-        Button button = new Button(“OK”);  
-        button.setBounds(55, 65, 100, 25);
-        
-        // When the button is clicked, close the dialog and greet the user  
-        button.addActionListener(Button.ACTION_CLICK, new ActionListener() {  
-            public void actionPerformed(ActionEvent ev) {  
-                dialog.setVisible(false);  
-                MessageBox.confirm(“Hello ” + input.getText() + “!”);  
-            }
-            
-        });
-        
-        dialog.getChildren().add(label);  
-        dialog.getChildren().add(input);  
-        dialog.getChildren().add(button);
-        
-        dialog.setVisible(true);  
-    }  
-
+    });
+    
+    dialog.getChildren().add(label);  
+    dialog.getChildren().add(input);  
+    dialog.getChildren().add(button);
+    
+    dialog.setVisible(true);  
+}  
+{% endhighlight %}
 Once you have finished typing your code, save the file.
 
 ## Configuring the ThinWire WebServlet

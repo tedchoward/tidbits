@@ -107,3 +107,26 @@ picture {
   max-width: 100%;
   height: auto;
 }
+
+pre,
+code {
+  font-family: $mono-font-family;
+  font-size: em(15);
+  border: 1px solid $light-gray;
+  border-radius: 3px;
+}
+
+code {
+  padding: em(1) em(5);
+}
+
+pre {
+  padding: em(8) em(12);
+  overflow-x: auto;
+
+  >code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
