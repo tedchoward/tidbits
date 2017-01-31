@@ -1,0 +1,18 @@
+ul,
+ol {
+  margin: 0 0 $small-spacing 0;
+  padding: 0 0 0 1.5em;
+}
+
+dl {
+  margin-bottom: $small-spacing;
+
+  dt {
+    font-weight: 600;
+    margin-top: $small-spacing;
+  }
+
+  dd {
+    margin: 0;
+  }
+}

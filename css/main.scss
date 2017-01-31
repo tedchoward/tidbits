@@ -1,0 +1,128 @@
+---
+---
+
+@import "bourbon";
+@import "base";
+@import "neat";
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+
+  >header {
+    padding: 0 $small-spacing;
+    background-color: $blue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+    a {
+      text-decoration: none;
+      color: inherit;
+
+      &:hover {
+        color: inherit;
+      }
+    }
+
+    h1 {
+      color: white;
+      margin-bottom: 0;
+      line-height: 72px;
+    }
+
+    >nav {
+      display: none;
+
+      @include media ($medium-screen-up) {
+        display: inherit;
+      }
+
+      ul {
+        margin-bottom: 0;
+        display: inline;
+        font-size: em(24);
+        line-height: 72px;
+
+        li {
+          list-style-type: none;
+          display: inline;
+
+          &:last-child:after {
+            content: "";
+          }
+
+          &:after {
+            content: " |";
+          }
+        }
+      }
+    }
+  }
+
+  >section {
+    margin-top: $small-spacing;
+
+    
+    nav {
+      width: 90%;
+      margin: 0 5%;
+
+      @include media ($large-screen-up) {
+        width: 720px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+
+    >nav {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  article {
+    width: 90%;
+    margin: 0 5%;
+
+    @include media ($large-screen-up) {
+      width: 720px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    >header {
+      h2 {
+        margin: $small-spacing 0 0 0;
+
+        a:after {
+          content: url(/images/glyphicons_050_link.png);
+          margin-left: 5px;
+        }
+      }
+
+      p {
+        color: $medium-gray;
+        margin-top: 0;
+      }
+    }
+  }
+
+  >footer {
+    border-top: em(1) solid;
+    width: 90%;
+    margin: $small-spacing 5% 0 5%;
+
+    img {
+      float: right;
+      margin-top: 5px;
+    }
+
+    @include media ($large-screen-up) {
+      width: 720px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}

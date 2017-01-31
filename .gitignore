@@ -1,5 +1,4 @@
 _site
 .DS_Store
-css
 .sass-cache
 vendor/ruby

@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: Colophon
 ---
-
-## {{ page.title }} ##
 
 [Wikipedia][1]:
 > In publishing, a colophon is ... a brief description of publication or
@@ -12,14 +10,7 @@ title: Colophon
 > of the book
 
 * [Blog Engine](https://github.com/mojombo/jekyll)
-* [Hosting](http://aws.amazon.com/s3/)
-* [S3 Sync](http://frontiernews.wordpress.com/2011/02/26/how-to-synch-a-folder-with-s3/)
-* [Bookmarklet](http://jonathanbuys.com/04-05-2011/Jekyll_Bookmarklet.html)
-* [CSS Blueprint](http://blueprintcss.org/)
-* [CSS Grid Layout](http://semantic.gs/)
+* [Hosting](https://www.digitalocean.com)
 * [Glyphicons](http://glyphicons.com/)
-* Inspiration
-  * [The Minimal Blogging Tool](http://scripting.com/stories/2011/01/05/upcomingTheMinimalBlogging.html)
-  * [Daring Fireball](http://daringfireball.net/)
 
 [1]: http://en.wikipedia.org/wiki/Colophon_(publishing)

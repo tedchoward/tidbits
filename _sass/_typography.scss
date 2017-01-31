@@ -1,0 +1,109 @@
+@import "neat";
+body {
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $heading-font-color;
+  font-family: $heading-font-family;
+  font-size: $base-font-size;
+  line-height: $heading-line-height;
+  font-weight: normal;
+  margin: 0 0 $small-spacing;
+}
+
+h1 {
+  font-size: em(48);
+}
+
+h2 {
+  font-size: em(32);
+}
+
+p {
+  margin: 0 0 $small-spacing;
+}
+
+a {
+  color: $action-color;
+  text-decoration: none;
+  transition: color $base-duration $base-timing;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: shade($action-color, 25%);
+    text-decoration: underline;
+  }
+}
+
+blockquote {
+  color: $blockquote-color;
+
+  &:before,
+  &:after {
+    display: block;
+    height: 38px;
+    font-size: em(72);
+  }
+
+  &:before {
+    content: "\201C";
+    margin-left: -32px;
+    margin-bottom: -20px;
+    line-height: 64px;
+  }
+
+  &:after {
+    content: "\201D";
+    float: right;
+    margin-top: -60px;
+    margin-right: -32px;
+    padding-left: 10px;
+    margin-left: 100%;
+  }
+}
+
+hr {
+  margin: 0 20% 55px;
+  padding: 19px 0;
+  line-height: 38px;
+  border: none;
+  border-bottom: 1px solid black;
+  text-align: center;
+  color: inherit;
+  background-color: inherit;
+
+  @include media ($large-screen-up) {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &:before {
+    content: "\25C6";
+    display: inline-block;
+    float: left;
+    position: relative;
+    left: -8px;
+    margin: 0 50%;
+    padding: 0 4px;
+    background-color: inherit;
+    cursor: default;
+  }
+}
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article>
+  <header>
+    {% if page.link %}
+    <h2><a href="{{ page.link }}">{{ page.title }}</a></h2>
+    {% else %}
+    <h2>{{ page.title }}</h2>
+    {% endif %}
+    <p></p>
+  </header>
+  {{ content }}
+</article>
