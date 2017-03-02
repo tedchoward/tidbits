@@ -11,15 +11,13 @@
     <copyright>Copyright Ted C. Howard</copyright>
     <managingEditor>ted@tedchoward.com (Ted C. Howard)</managingEditor>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>{% for post in site.posts %}
-    <item>{% if post.layout != "micro" %}
-      <title>{{ post.title | xml_escape }}</title>{% endif %}{% if post.link %}
-      <link>{{ post.link | xml_escape }}</link>{% else %}
-      <link>{{site.url}}{{ post.url }}</link>{% endif %}
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>{% for post in site.posts %}{% if post.layout == "micro" %}
+    <item>
+      <link>{{site.url}}{{ post.url }}</link>
       <description>{{ post.content | xml_escape }}</description>
       <guid isPermaLink="true">{{ site.url}}{{ post.url }}</guid>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>{% if post.enclosure %}
       <enclosure url="{{ post.enclosure }}" length="{{ post.encLength }}" type="{{ post.encType }}" />{% endif %}
-    </item>{% endfor %}
+    </item>{% endif %}{% endfor %}
   </channel>
 </rss>

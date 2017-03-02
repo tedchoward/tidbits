@@ -4,7 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title | escape }}{% if page.title %}: {{ page.title | escape }}{% endif %}</title>
 
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/rss.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS (everything)" href="{{ site.url }}/rss.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS (microblog)" href="{{ site.url }}/snippets.xml">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Sans+Mono|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>

@@ -93,19 +93,24 @@ body {
     }
 
     >header {
-      h2 {
+      margin-bottom: 1em;
+      h1 {
         margin: $small-spacing 0 0 0;
 
-        a:after {
+        a.external-link:after {
           content: url(/images/glyphicons_050_link.png);
           margin-left: 5px;
         }
       }
+    }
 
-      p {
+    >footer {
         color: $medium-gray;
         margin-top: 0;
-      }
+        font-size: 80%;
+        a {
+          color: $medium-gray;
+        }
     }
   }
 

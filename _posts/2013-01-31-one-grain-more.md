@@ -10,6 +10,6 @@ thought of resurrecting [Les Buffet][1], but I'm not sure I could best this.
 
 <!--more-->
 
-<iframe width="560" height="315" src="http://www.youtube-nocookie.com/embed/k9QbC41oQRo" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="http://www.youtube-nocookie.com/embed/k9QbC41oQRo" frameborder="0" allowfullscreen></iframe></div>
 
 [1]: http://tedchoward.com/geocities/les_buffet.html
