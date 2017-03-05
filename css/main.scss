@@ -3,7 +3,6 @@
 
 @import "bourbon";
 @import "base";
-@import "neat";
 
 body {
   display: flex;
@@ -35,14 +34,14 @@ body {
     >nav {
       display: none;
 
-      @include media ($medium-screen-up) {
+      @media screen and (min-width: 600px) {
         display: inherit;
       }
 
       ul {
         margin-bottom: 0;
         display: inline;
-        font-size: em(24);
+        font-size: 24px;
         line-height: 72px;
 
         li {
@@ -69,7 +68,7 @@ body {
       width: 90%;
       margin: 0 5%;
 
-      @include media ($large-screen-up) {
+      @media screen and (min-width: 900px) {
         width: 720px;
         margin-left: auto;
         margin-right: auto;
@@ -86,7 +85,7 @@ body {
     width: 90%;
     margin: 0 5%;
 
-    @include media ($large-screen-up) {
+    @media screen and (min-width: 900px) {
       width: 720px;
       margin-left: auto;
       margin-right: auto;
@@ -115,7 +114,7 @@ body {
   }
 
   >footer {
-    border-top: em(1) solid;
+    border-top: 1px solid;
     width: 90%;
     margin: $small-spacing 5% 0 5%;
 
@@ -124,7 +123,7 @@ body {
       margin-top: 5px;
     }
 
-    @include media ($large-screen-up) {
+    @media screen and (min-width: 900px) {
       width: 720px;
       margin-left: auto;
       margin-right: auto;

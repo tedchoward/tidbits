@@ -5,6 +5,6 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "jekyll-paginate"
-gem "bourbon"
+gem "bourbon", '~> 5.0.0.beta'
 gem "neat"
 gem "jekyll-autoprefixer"
