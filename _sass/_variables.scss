@@ -3,9 +3,11 @@ $medium-screen: 600px;
 $large-screen: 900px;
 
 // Typography
-$base-font-family: 'Droid Serif', serif;
-$heading-font-family: 'Droid Sans', sans-serif;
-$mono-font-family: 'Droid Sans Mono', monospace;
+// $base-font-family: 'Droid Serif', serif;
+// $heading-font-family: 'Droid Sans', sans-serif;
+// $mono-font-family: 'Droid Sans Mono', monospace;
+$base-font-family: $font-stack-system;
+$heading-font-family: $base-font-family;
 
 // Font Sizes
 $base-font-size: 1em;
@@ -21,17 +23,21 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
+// $blue: #1565c0;
+// $dark-gray: #222;
+// $darker-gray: #111;
+// $medium-gray: #666;
+// $light-gray: #ddd;
 $blue: #1565c0;
-$dark-gray: #222;
-$darker-gray: #111;
-$medium-gray: #666;
+$dark-gray: #333;
+$medium-gray: #999;
 $light-gray: #ddd;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$heading-font-color: $darker-gray;
+// $heading-font-color: $darker-gray;
 $action-color: $blue;
-$blockquote-color: $medium-gray;
+// $blockquote-color: $medium-gray;
 
 // Border
 $base-border-color: $light-gray;

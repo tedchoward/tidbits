@@ -2,131 +2,158 @@
 ---
 
 @import "bourbon";
+@import "neat";
 @import "base";
 
-body {
-  display: flex;
-  flex-direction: column;
-  margin: 0;
+$medium-up: (
+  media: "(min-width: 600px)",
+);
 
-  >header {
-    padding: 0 $small-spacing;
-    background-color: $blue;
-    color: white;
-    display: flex;
-    justify-content: space-between;
+$large-up: (
+  media: "(min-width: 900px)",
+);
 
-    a {
-      text-decoration: none;
+.page-header {
+  @include grid-container;
+
+  background-color: $blue;
+  color: white;
+  line-height: 72px;
+
+  &__title {
+    @include grid-column(12);
+
+    margin-bottom: 0;
+    font-size: 48px;
+    font-weight: normal;
+    line-height: inherit;
+
+    @include grid-media($medium-up) {
+      @include grid-column(7);
+    }
+  }
+
+  &__link {
+    color: inherit;
+
+    &:hover {
       color: inherit;
-
-      &:hover {
-        color: inherit;
-      }
-    }
-
-    h1 {
-      color: white;
-      margin-bottom: 0;
-      line-height: 72px;
-    }
-
-    >nav {
-      display: none;
-
-      @media screen and (min-width: 600px) {
-        display: inherit;
-      }
-
-      ul {
-        margin-bottom: 0;
-        display: inline;
-        font-size: 24px;
-        line-height: 72px;
-
-        li {
-          list-style-type: none;
-          display: inline;
-
-          &:last-child:after {
-            content: "";
-          }
-
-          &:after {
-            content: " |";
-          }
-        }
-      }
     }
   }
 
-  >section {
-    margin-top: $small-spacing;
-
-    
-    nav {
-      width: 90%;
-      margin: 0 5%;
-
-      @media screen and (min-width: 900px) {
-        width: 720px;
-        margin-left: auto;
-        margin-right: auto;
-      }
-    }
-
-    >nav {
-      display: flex;
-      justify-content: space-between;
+  &__navigation {
+    display: none;
+    @include grid-media($medium-up) {
+      display: inherit;
+      @include grid-column(5);
+      text-align: right;
     }
   }
 
-  article {
-    width: 90%;
-    margin: 0 5%;
+  &__navigation-item {
+    font-size: 24px;
+    line-height: inherit;
+    display: inline;
 
-    @media screen and (min-width: 900px) {
-      width: 720px;
-      margin-left: auto;
-      margin-right: auto;
+    &:after {
+      content: " |";
     }
 
-    >header {
-      margin-bottom: 1em;
-      h1 {
-        margin: $small-spacing 0 0 0;
-
-        a.external-link:after {
-          content: url(/images/glyphicons_050_link.png);
-          margin-left: 5px;
-        }
-      }
-    }
-
-    >footer {
-        color: $medium-gray;
-        margin-top: 0;
-        font-size: 80%;
-        a {
-          color: $medium-gray;
-        }
+    &:last-child:after {
+      content: "";
     }
   }
+}
 
-  >footer {
-    border-top: 1px solid;
-    width: 90%;
-    margin: $small-spacing 5% 0 5%;
+.page-content {
 
-    img {
-      float: right;
-      margin-top: 5px;
+  width: 90%;
+  margin: 0 5%;
+  
+  @media screen and (min-width: 900px) {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+   hr {
+    margin: 0 20% 55px;
+    padding: 19px 0;
+    line-height: 38px;
+    border: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+    color: inherit;
+    background-color: inherit;
+
+    &:before {
+      content: "\25C6";
+      display: inline-block;
+      float: left;
+      position: relative;
+      left: -8px;
+      margin: 0 50%;
+      padding: 0 4px;
+      background-color: inherit;
+      cursor: default;
     }
+  }
+}
 
-    @media screen and (min-width: 900px) {
-      width: 720px;
-      margin-left: auto;
-      margin-right: auto;
-    }
+.full-post {
+  
+  &__title {
+    font-size: 48px;
+    font-weight: normal;
+  }
+
+  &__external-link:after {
+    content: url(/images/glyphicons_050_link.png);
+    margin-left: 5px;
+  }
+}
+
+.micro-post {
+  margin: 1em 5%;
+  padding: 1em;
+  border: 1px solid $medium-gray;
+
+  &__footer {
+    font-size: 0.75em;
+    text-align: right;
+  }
+}
+
+.post-page {
+  &__title {
+    font-size: 48px;
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+
+  &__external-link:after {
+    content: url(/images/glyphicons_050_link.png);
+    margin-left: 5px;
+  }
+
+  &__timestamp {
+    font-size: 0.9em;
+    color: $medium-gray;
+    margin-left: 0.5em;
+  }
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-footer {
+  width: 90%;
+  margin: $small-spacing 5% 0 5%;
+
+  &__xml-img {
+    float: right;
+    margin-top: 5px;
   }
 }

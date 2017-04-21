@@ -14,17 +14,17 @@ h6 {
   font-family: $heading-font-family;
   font-size: modular-scale(1);
   line-height: $heading-line-height;
-  font-weight: normal;
+  // font-weight: normal;
   margin: 0 0 $small-spacing;
 }
 
-h1 {
-  font-size: 48px;
-}
+// h1 {
+//   font-size: 48px;
+// }
 
-h2 {
-  font-size: 32px;
-}
+// h2 {
+//   font-size: 32px;
+// }
 
 p {
   margin: 0 0 $small-spacing;
@@ -43,80 +43,92 @@ a {
 }
 
 blockquote {
-  color: $blockquote-color;
-
-  &:before,
-  &:after {
-    display: block;
-    height: 38px;
-    font-size: 72px;
-  }
-
-  &:before {
-    content: "\201C";
-    margin-left: -32px;
-    margin-bottom: -20px;
-    line-height: 64px;
-  }
-
-  &:after {
-    content: "\201D";
-    float: right;
-    margin-top: -60px;
-    margin-right: -32px;
-    padding-left: 10px;
-    margin-left: 100%;
-  }
+  border-left: 1px solid $light-gray;
+  padding-left: 1.5em;
+  margin-left: 0.5em;
 }
+
+// blockquote {
+//   color: $blockquote-color;
+
+//   &:before,
+//   &:after {
+//     display: block;
+//     height: 38px;
+//     font-size: 72px;
+//   }
+
+//   &:before {
+//     content: "\201C";
+//     margin-left: -32px;
+//     margin-bottom: -20px;
+//     line-height: 64px;
+//   }
+
+//   &:after {
+//     content: "\201D";
+//     float: right;
+//     margin-top: -60px;
+//     margin-right: -32px;
+//     padding-left: 10px;
+//     margin-left: 100%;
+//   }
+// }
 
 hr {
-  margin: 0 20% 55px;
-  padding: 19px 0;
-  line-height: 38px;
-  border: none;
-  border-bottom: 1px solid black;
-  text-align: center;
-  color: inherit;
-  background-color: inherit;
+  border-bottom: $base-border;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  margin: $base-spacing 0;
 
-  @media screen and (min-width: 900px) {
-    width: 720px;
-    margin-left: auto;
-    margin-right: auto;
-  }
+  // margin: 0 20% 55px;
+  // padding: 19px 0;
+  // line-height: 38px;
+  // border: none;
+  // border-bottom: 1px solid black;
+  // text-align: center;
+  // color: inherit;
+  // background-color: inherit;
 
-  &:before {
-    content: "\25C6";
-    display: inline-block;
-    float: left;
-    position: relative;
-    left: -8px;
-    margin: 0 50%;
-    padding: 0 4px;
-    background-color: inherit;
-    cursor: default;
-  }
+  // @media screen and (min-width: 900px) {
+  //   width: 720px;
+  //   margin-left: auto;
+  //   margin-right: auto;
+  // }
+
+  // &:before {
+  //   content: "\25C6";
+  //   display: inline-block;
+  //   float: left;
+  //   position: relative;
+  //   left: -8px;
+  //   margin: 0 50%;
+  //   padding: 0 4px;
+  //   background-color: inherit;
+  //   cursor: default;
+  // }
 }
 
-pre,
-code {
-  font-family: $mono-font-family;
-  font-size: 15px;
-  border: 1px solid $light-gray;
-  border-radius: 3px;
-}
+// pre,
+// code {
+//   font-family: $mono-font-family;
+//   font-size: 15px;
+//   border: 1px solid $light-gray;
+//   border-radius: 3px;
+// }
 
-code {
-  padding: 1px 5px;
-}
+// code {
+//   padding: 1px 5px;
+// }
 
-pre {
-  padding: 8px 12px;
-  overflow-x: auto;
+// pre {
+//   padding: 8px 12px;
+//   overflow-x: auto;
 
-  >code {
-    border: 0;
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
+//   >code {
+//     border: 0;
+//     padding-right: 0;
+//     padding-left: 0;
+//   }
+// }

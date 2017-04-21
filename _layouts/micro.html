@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<article>
+<article class="micro-post">
   {{ content }}
-  <footer>Posted on <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> <a href="{{ page.url }}">∞</a></footer>
+  <footer class="micro-post__footer">
+    <a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%Y-%m-%d %l:%M %P" }}</time></a>
+  </footer>
 </article>

@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.0)
+    addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
     autoprefixer-rails (6.3.7)
       execjs
@@ -12,7 +12,7 @@ GEM
     execjs (2.7.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
-    jekyll (3.4.1)
+    jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)

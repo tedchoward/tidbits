@@ -1,0 +1,6 @@
+<article class="micro-post">
+  {{ post.content }}
+  <footer class="micro-post__footer">
+    <a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d %l:%M %P" }}</time></a>
+  </footer>
+</article>

@@ -2,25 +2,14 @@
 layout: default
 ---
 {% for post in paginator.posts %}
-<article>
-  <header>
-  {% unless post.layout == "micro" %}
-  {% if post.link %}
-    <h1><a class="external-link" href="{{ post.link }}">{{ post.title }}</a></h1>
+  {% if post.layout == "micro" %}
+  {% include micro-post.html %}
   {% else %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  {% include full-post.html %}
   {% endif %}
-  {% endunless %}
-  </header>
-  {{ post.content }}
-    <footer>
-      <a href="{{ post.url }}">Posted on <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A, %B %d, %Y" }}</time></a>
-      {% unless post.layout == "micro" %}<a href="{{ post.url }}#disqus_thread"></a>{% endunless %}
-    </footer>
-  </article>
   {% unless forloop.last or post.layout == "micro" %}<hr>{% endunless %}
 {% endfor %}
-<nav>
+<nav class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
   <a href="/">&larr; Newer Posts</a>
