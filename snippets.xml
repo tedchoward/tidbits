@@ -5,7 +5,7 @@
   <channel>
     <title>{{ site.title }}</title>
     <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ site.url }}/snippets.xml" rel="self" type="application/rss+xml" />
     <description>Links and notes from the internet.  By Ted C. Howard.</description>
     <language>en-us</language>
     <copyright>Copyright Ted C. Howard</copyright>
