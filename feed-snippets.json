@@ -1,0 +1,30 @@
+---
+---
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "{{ site.title }}",
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/feed-snippets.json",
+  "description": "Links and notes from the internet.  By Ted C. Howard.",
+  "author": {
+    "name": "Ted C. Howard",
+    "url": "http://tedchoward.com",
+    "avatar": "https://www.gravatar.com/avatar/5eebc2242350ec87d76a03beb95ba56a"
+  },
+  "items": [{% for post in site.posts %}{% if post.layout == "micro" %}
+    {
+      "id": "{{ site.url}}{{ post.url }}",
+      "url": "{{ site.url }}{{ post.url }}",{% if post.link %}
+      "external_url": "{{ post.link }}",{% endif %}
+      "content_html": "{{ post.content | jsonify }}",
+      "date_published": "{{ post.date | date: "%FT%H:%M:%S%z" }}"{% if post.enclosure %}
+      "attachments": [
+        {
+          "url": "{{ post.enclosure }}",
+          "mime_type": "{{ post.encType }}",
+          "size_in_bytes": "{{ post.encLength }}"
+        }
+      ]{% endif %}
+    }{% endif %}{% endfor %}
+  ]
+}
