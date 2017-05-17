@@ -4,6 +4,6 @@ layout: default
 <article class="micro-post">
   {{ content }}
   <footer class="micro-post__footer">
-    <a href="{{ post.url }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%Y-%m-%d %l:%M %P" }}</time></a>
+    <a href="{{ page.url }}"><time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%Y-%m-%d %l:%M %P" }}</time></a>
   </footer>
 </article>
