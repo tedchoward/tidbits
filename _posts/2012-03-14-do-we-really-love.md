@@ -2,7 +2,7 @@
 layout: post
 title: Do we really love people who aren't Christian?
 link: http://www.jonacuff.com/stuffchristianslike/2012/03/do-we-really-love-people-who-arent-christian/
-date: 2012-03-14 09:29:00
+date: 2012-03-14 09:29:00 -0500
 ---
 
 Jon Acuff:

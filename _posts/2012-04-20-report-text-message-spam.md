@@ -2,7 +2,7 @@
 layout: post
 title: Report Text Message Spam to AT&T
 link: http://tidbits.com/article/12947
-date: 2012-04-20 15:07:00
+date: 2012-04-20 15:07:00 -0500
 ---
 
 Glenn Fleishman:

@@ -2,7 +2,7 @@
 layout: post
 title: The Moral Importance of the iPhone
 link: http://www.patheos.com/blogs/slowchurch/2012/04/28/the-moral-importance-of-the-iphone/
-date: 2012-05-30 10:49:00
+date: 2012-05-30 10:49:00 -0500
 ---
 
 John Pattison:

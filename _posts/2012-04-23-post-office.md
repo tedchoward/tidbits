@@ -2,7 +2,7 @@
 layout: post
 title: Don't Let Business Lobbyists Kill the Post Office
 link: http://www.rollingstone.com/politics/blogs/taibblog/dont-let-business-lobbyists-kill-the-post-office-20120423
-date: 2012-04-23 10:59:00
+date: 2012-04-23 10:59:00 -0500
 ---
 
 Conventional wisdom says that the US Postal Service is going broke

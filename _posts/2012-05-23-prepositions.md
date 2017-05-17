@@ -2,7 +2,7 @@
 layout: post
 title: Prepositions
 link: http://experimentaltheology.blogspot.com/2012/05/universal-reconciliation-and-new.html
-date: 2012-05-23 09:56:00
+date: 2012-05-23 09:56:00 -0500
 ---
 
 Richard Beck:

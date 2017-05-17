@@ -2,7 +2,7 @@
 layout: post
 title: Rick Perry's Balanced-Budget Illusion
 link: http://blogs.dallasobserver.com/unfairpark/2011/10/rick_perrys_balanced-budget_il.php
-date: 2011-10-25 16:29:08
+date: 2011-10-25 16:29:08 -0500
 ---
 
 Jim Schutze:

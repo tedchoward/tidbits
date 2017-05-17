@@ -2,7 +2,7 @@
 layout: post
 title: The Worst Tech Awards Show Ever
 link: http://www.pcmag.com/article2/0,2817,2399708,00.asp
-date: 2012-02-02 09:10:00
+date: 2012-02-02 09:10:00 -0600
 ---
 
 John C. Dvorak:

@@ -1,6 +1,6 @@
 ---
 layout: micro
-date: 2017-03-02 13:03:00
+date: 2017-03-02 13:03:00 -0600
 ---
 
 L.A. Weekly's April Wolfe

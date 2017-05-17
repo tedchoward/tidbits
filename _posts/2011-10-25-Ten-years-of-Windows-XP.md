@@ -2,7 +2,7 @@
 layout: post
 title: Ten years of Windows XP
 link: http://arstechnica.com/microsoft/news/2011/10/ten-years-of-windows-xp-how-longevity-became-a-curse.ars
-date: 2011-10-25 13:21:26
+date: 2011-10-25 13:21:26 -0500
 ---
 
 Peter Bright:

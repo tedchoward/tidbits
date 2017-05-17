@@ -1,6 +1,6 @@
 ---
 layout: micro
-date: 2017-03-02 15:13:00
+date: 2017-03-02 15:13:00 -0600
 ---
 
 I'm experimenting with "micro" blog posts. Technically they are just regular

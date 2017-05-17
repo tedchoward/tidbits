@@ -2,7 +2,7 @@
 layout: post
 title: The Original Heresy?
 link: http://www.patheos.com/blogs/jesuscreed/2011/12/23/the-original-heresy/
-date: 2011-12-23 13:25:00
+date: 2011-12-23 13:25:00 -0600
 ---
 
 Scot McKnight:

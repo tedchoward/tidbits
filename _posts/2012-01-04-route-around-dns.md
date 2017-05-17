@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Route Around DNS
-date: 2012-01-04 09:43:00
+date: 2012-01-04 09:43:00 -0600
 published: false
 ---
 

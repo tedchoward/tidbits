@@ -2,7 +2,7 @@
 layout: post
 title: Why is War So Easy For American Christians?
 link: http://www.patheos.com/blogs/jesuscreed/2012/05/24/why-is-war-so-easy-for-american-christians
-date: 2012-05-24 12:39:00
+date: 2012-05-24 12:39:00 -0500
 ---
 
 [Stanley Hauerwas][1]:

@@ -2,7 +2,7 @@
 layout: post
 title: A Christmas Carol As Resistance Literature
 link: http://experimentaltheology.blogspot.com/2011/12/christmas-carol-as-resistance.html
-date: 2011-12-05 09:30:00
+date: 2011-12-05 09:30:00 -0600
 ---
 
 Richard Beck:

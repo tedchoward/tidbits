@@ -2,7 +2,7 @@
 layout: post
 title: Slowly But Surely, Elm Street's History is Being Erased One Old Building at a Time
 link: http://blogs.dallasobserver.com/unfairpark/2011/10/slowly_but_surely_elm_streets.php
-date: 2011-10-24 13:32:11
+date: 2011-10-24 13:32:11 -0500
 ---
 
 Robery Wilonsky:

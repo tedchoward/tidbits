@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lessons from TileStack: What Does '#Discover' Mean?"
-date: 2011-12-12 15:37:00
+date: 2011-12-12 15:37:00 -0600
 ---
 
 So, last week Twitter debuted a new interface with the stated intent of

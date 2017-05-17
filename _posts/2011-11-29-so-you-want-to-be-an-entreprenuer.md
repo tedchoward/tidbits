@@ -2,7 +2,7 @@
 layout: post
 title: So You Want to be an Entreprenuer
 link: http://scripting.com/stories/2011/11/29/whatDoesItTakeToBeAnEntrep.html
-date: 2011-11-29 09:28:00
+date: 2011-11-29 09:28:00 -0600
 ---
 
 Dave Winer:

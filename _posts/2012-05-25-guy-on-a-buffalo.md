@@ -2,7 +2,7 @@
 layout: post
 title: Guy on a Buffalo
 link: http://quietube2.com/v.php/http://www.youtube.com/watch?v=iJ4T9CQA0UM
-date: 2012-05-25 10:24:00
+date: 2012-05-25 10:24:00 -0500
 ---
 
 And now for something completely different...

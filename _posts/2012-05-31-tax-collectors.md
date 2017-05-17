@@ -2,7 +2,7 @@
 layout: post
 title: Treat Them as a Pagan or a Tax Collector
 link: http://experimentaltheology.blogspot.com/2012/05/treat-them-as-pagan-or-tax-collector.html
-date: 2012-05-31 10:25:00
+date: 2012-05-31 10:25:00 -0500
 ---
 
 Richard Beck:

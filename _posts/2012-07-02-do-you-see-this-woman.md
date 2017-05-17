@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do you see this woman?
-date: 2012-07-02 10:51:00
+date: 2012-07-02 10:51:00 -0500
 ---
 
 [Tim Bray][1]:

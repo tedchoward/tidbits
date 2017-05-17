@@ -2,7 +2,7 @@
 layout: post
 title: J.L. Long library mural painted by Hall of State artist
 link: http://lakewood.advocatemag.com/2011/10/j-l-long-library-mural-painted-by-hall-of-state-artist/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BackTalkEastDallas+%28Lakewood%2FEast+Dallas+Advocate%29
-date: 2011-10-20 14:38:55
+date: 2011-10-20 14:38:55 -0500
 ---
 
 Rick Wamre:

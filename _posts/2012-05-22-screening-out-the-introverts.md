@@ -2,7 +2,7 @@
 layout: post
 title: Screening Out the Introverts
 link: http://chronicle.com/article/Screening-Out-the-Introverts/131520/
-date: 2012-05-22 10:28:00
+date: 2012-05-22 10:28:00 -0500
 ---
 
 William Pannapacker:

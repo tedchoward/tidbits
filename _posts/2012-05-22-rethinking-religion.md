@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rethinking Religion
-date: 2012-05-22 13:18:00
+date: 2012-05-22 13:18:00 -0500
 ---
 
 People are losing faith in religion; many are leaving their churches. I

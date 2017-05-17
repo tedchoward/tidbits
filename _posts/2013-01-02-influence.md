@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Influence
-date: 2013-01-02 11:28:00
+date: 2013-01-02 11:28:00 -0600
 ---
 
 I don't like national elections. Don't get me wrong, I believe in and

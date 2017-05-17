@@ -2,7 +2,7 @@
 layout: post
 title: Amazon settles sales tax fight with Texas comptroller
 link: http://www.pegasusnews.com/news/2012/apr/27/amazon-settles-sales-tax-fight-texas-comptroller/
-date: 2012-04-27 10:29:00
+date: 2012-04-27 10:29:00 -0500
 ---
 
 Ross Ramsey:

@@ -2,7 +2,7 @@
 layout: post
 title: On Parenthood
 link: http://www.codinghorror.com/blog/2011/10/on-parenthood.html
-date: 2011-10-24 16:02:49
+date: 2011-10-24 16:02:49 -0500
 ---
 
 Jeff Atwood:

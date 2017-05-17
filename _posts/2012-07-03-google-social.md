@@ -2,7 +2,7 @@
 layout: post
 title: Does Google have any social skills at all?
 link: http://gizmodo.com/5921823/does-google-have-any-social-skills-at-all
-date: 2012-07-03 09:13:00
+date: 2012-07-03 09:13:00 -0500
 ---
 
 Sam Biddle:

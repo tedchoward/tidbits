@@ -2,7 +2,7 @@
 layout: post
 title: How Does SOPA Threaten Stack Overflow
 link: http://meta.stackoverflow.com/questions/114005/how-does-sopa-threaten-stack-overflow/114007#114007
-date: 2011-11-29 10:51:00
+date: 2011-11-29 10:51:00 -0600
 ---
 
 Joel Spolsky

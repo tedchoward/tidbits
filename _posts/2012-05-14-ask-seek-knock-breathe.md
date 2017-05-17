@@ -2,7 +2,7 @@
 layout: post
 title: Ask. Seek. Knock. Breathe
 link: http://rachelheldevans.com/beth-woolsey-ask-seek
-date: 2012-05-14 11:39:00
+date: 2012-05-14 11:39:00 -0500
 ---
 
 [Beth Woolsey][1]:

@@ -2,7 +2,7 @@
 layout: post
 title: The Soterian Gospel as Selfish
 link: http://www.patheos.com/blogs/jesuscreed/2012/02/01/the-soterian-gospel-as-selfish/
-date: 2012-02-01 09:21:00
+date: 2012-02-01 09:21:00 -0600
 ---
 
 Scot McKnight:

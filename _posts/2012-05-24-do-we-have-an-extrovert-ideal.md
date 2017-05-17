@@ -2,7 +2,7 @@
 layout: post
 title: Do We Have an Extrovert Ideal?
 link: http://www.patheos.com/blogs/jesuscreed/2012/05/24/do-we-have-an-extrovert-ideal-rjs/
-date: 2012-05-24 14:08:00
+date: 2012-05-24 14:08:00 -0500
 ---
 
 RJS:

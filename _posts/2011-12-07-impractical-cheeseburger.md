@@ -2,7 +2,7 @@
 layout: post
 title: On the impracticality of a cheeseburger.
 link: http://waldo.jaquith.org/blog/2011/12/impractical-cheeseburger/
-date: 2011-12-07 08:16:00
+date: 2011-12-07 08:16:00 -0600
 ---
 
 Waldo Jaquith:

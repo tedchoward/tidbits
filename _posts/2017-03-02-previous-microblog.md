@@ -1,6 +1,6 @@
 ---
 layout: micro
-date: 2017-03-02 15:20:00
+date: 2017-03-02 15:20:00 -0600
 ---
 
 It occurs to me that I've been maintaining a micro-blog for years at

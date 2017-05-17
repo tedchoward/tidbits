@@ -2,7 +2,7 @@
 layout: post
 title: Your Dallas Cowboys Commemorative Poster
 link: http://blogs.dallasobserver.com/unfairpark/2012/01/your_dallas_cowboys_commemorat.php
-date: 2012-01-02 09:06:00
+date: 2012-01-02 09:06:00 -0600
 ---
 
 Robert Wilonsky:

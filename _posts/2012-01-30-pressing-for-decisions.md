@@ -2,7 +2,7 @@
 layout: post
 title: Pressing For Decisions
 link: http://www.patheos.com/blogs/jesuscreed/2012/01/30/pressing-for-decisions/
-date: 2012-01-30 08:58:00
+date: 2012-01-30 08:58:00 -0600
 ---
 
 Scot McKnight:

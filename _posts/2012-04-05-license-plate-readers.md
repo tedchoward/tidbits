@@ -2,7 +2,7 @@
 layout: post
 title: 'Dallas PD intends to use license-plates readers to catch criminals now and gather "information" for use later'
 link: http://crimeblog.dallasnews.com/archives/2012/04/dallas-pd-intends-to-use-licen.html
-date: 2012-04-05 09:48:00
+date: 2012-04-05 09:48:00 -0500
 ---
 
 Robery Wilonsky:

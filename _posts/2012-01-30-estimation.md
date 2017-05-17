@@ -2,7 +2,7 @@
 layout: post
 title: Why are software development task estimations regularly off by a factor of 2-3?
 link: http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe
-date: 2012-01-30 09:24:00
+date: 2012-01-30 09:24:00 -0600
 ---
 
 Michael Wolfe:

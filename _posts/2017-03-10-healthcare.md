@@ -1,6 +1,6 @@
 ---
 layout: micro
-date: 2017-03-10 13:33:00
+date: 2017-03-10 13:33:00 -0600
 ---
 
 There seems to be a philosophical disconnect between the two (broadly

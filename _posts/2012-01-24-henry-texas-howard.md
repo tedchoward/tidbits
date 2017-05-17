@@ -2,7 +2,7 @@
 layout: post
 title: The Story of Henry Texas Howard
 link: http://smallways.wordpress.com/2012/01/24/the-story-of-henry-texas-howard/
-date: 2012-01-24 10:20:00
+date: 2012-01-24 10:20:00 -0600
 ---
 
 Megan Howard:

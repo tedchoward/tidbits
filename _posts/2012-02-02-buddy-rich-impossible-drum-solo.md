@@ -2,7 +2,7 @@
 layout: post
 title: Buddy Rich Impossible Drum Solo
 link:
-date: 2012-02-02 08:52:00
+date: 2012-02-02 08:52:00 -0600
 ---
 
 He may not be *your kind of guy*, but just watch this video of him playing

@@ -2,7 +2,7 @@
 layout: post
 title: Loving the Bible for what it is, not what I want it to be
 link: http://rachelheldevans.com/bible-series
-date: 2012-01-02 11:08:00
+date: 2012-01-02 11:08:00 -0600
 ---
 
 Rachel Held Evans:

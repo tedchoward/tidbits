@@ -2,7 +2,7 @@
 layout: post
 title: The terrorist as rock star
 link: http://dave.smallpict.com/2013/07/17/theTerroristRockStar
-date: 2013-07-17 20:12:00
+date: 2013-07-17 20:12:00 -0500
 ---
 
 Dave Winer:

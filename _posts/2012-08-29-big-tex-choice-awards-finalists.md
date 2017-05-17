@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2012 Big Tex Choice Awards Finalists Announced
-date: 2012-08-29 11:01:00
+date: 2012-08-29 11:01:00 -0500
 ---
 
 UPDATE: Descriptions Added

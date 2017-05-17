@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ted's Tidbits
-date: 2011-10-20 08:57:00
+date: 2011-10-20 08:57:00 -0500
 ---
 
 ### The voice in my head says: ###

@@ -2,7 +2,7 @@
 layout: post
 title: Letting love override your theology
 link: http://www.arnizachariassen.com/ithinkibelieve/letting-love-override-your-theology/
-date: 2012-07-02 10:14:00
+date: 2012-07-02 10:14:00 -0500
 ---
 
 Arni Zachariassen:

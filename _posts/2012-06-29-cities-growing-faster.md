@@ -2,7 +2,7 @@
 layout: post
 title: "Cities are Now Growing Faster Than Suburbs -- Except in Dallas, Of Course"
 link: http://blogs.dallasobserver.com/unfairpark/2012/06/census_numbers_show_dallas_buc.php
-date: 2012-06-29 10:20:00
+date: 2012-06-29 10:20:00 -0500
 ---
 
 Eric Nicholson:

@@ -2,7 +2,7 @@
 layout: post
 title: Cloves, Hookahs, and Other Non-Cigarettes
 link: http://www.jonacuff.com/stuffchristianslike/2012/01/cloves-hookahs-and-other-non-cigarettes/
-date: 2012-01-06 09:36:00
+date: 2012-01-06 09:36:00 -0600
 ---
 
 Joe Bunting:

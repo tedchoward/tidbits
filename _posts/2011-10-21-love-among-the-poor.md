@@ -2,7 +2,7 @@
 layout: post
 title: Love among the poor
 link: http://larryjamesurbandaily.blogspot.com/2011/10/love-among-poor.html
-date: 2011-10-21 10:30:39
+date: 2011-10-21 10:30:39 -0500
 ---
 
 Dean Brackley:

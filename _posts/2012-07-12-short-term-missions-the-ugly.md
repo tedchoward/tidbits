@@ -2,7 +2,7 @@
 layout: post
 title: "Short-Term Missions: The Ugly"
 link: http://loveiswhatyoudo.wordpress.com/2012/07/12/short-term-missions-the-ugly/
-date: 2012-07-12 08:47:00
+date: 2012-07-12 08:47:00 -0500
 ---
 
 J.R. Goudeau:

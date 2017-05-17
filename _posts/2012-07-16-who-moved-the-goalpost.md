@@ -2,7 +2,7 @@
 layout: post
 title: Who moved the goalpost?
 link: http://danbouchelle.blogspot.com/2012/07/who-moved-goalpost.html
-date: 2012-07-16 12:08:00
+date: 2012-07-16 12:08:00 -0500
 ---
 
 Dan Bouchelle:

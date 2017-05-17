@@ -2,7 +2,7 @@
 layout: post
 title: Oracle JDK7 Mac OS X Port Developer Preview Release
 link: http://jdk7.java.net/macportpreview/
-date: 2011-10-24 13:00:10
+date: 2011-10-24 13:00:10 -0500
 ---
 
 java.net:

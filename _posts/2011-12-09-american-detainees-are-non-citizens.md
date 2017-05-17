@@ -2,7 +2,7 @@
 layout: post
 title: So, American detainees are non-citizens?
 link: http://www.southernbread.org/so-the-bill-of-rights-is-only-for-americans/
-date: 2011-12-09 09:55:00
+date: 2011-12-09 09:55:00 -0600
 ---
 
 Dave Jones:

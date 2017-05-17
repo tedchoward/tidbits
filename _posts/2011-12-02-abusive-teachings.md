@@ -2,7 +2,7 @@
 layout: post
 title: The abusive teachings of Michael and Debi Pearl hurt both women and children
 link: http://rachelheldevans.com/michael-debi-pearl-abuse
-date: 2011-12-02 09:30:00
+date: 2011-12-02 09:30:00 -0600
 ---
 
 Rachel Held Evans:

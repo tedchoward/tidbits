@@ -2,7 +2,7 @@
 layout: post
 title: What is a Just War?
 link: http://original.antiwar.com/andrew-p-napolitano/2012/02/01/what-is-a-just-war/
-date: 2012-02-02 08:44:00
+date: 2012-02-02 08:44:00 -0600
 ---
 
 Andrew P. Napolitano

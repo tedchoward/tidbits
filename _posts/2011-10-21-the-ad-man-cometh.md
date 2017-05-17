@@ -2,7 +2,7 @@
 layout: post
 title: The Ad Man Cometh
 link: http://blogs.dallasobserver.com/unfairpark/2011/10/stopping_by_the_city_councils.php
-date: 2011-10-21 10:54:40
+date: 2011-10-21 10:54:40 -0500
 ---
 
 Anna Merlan:

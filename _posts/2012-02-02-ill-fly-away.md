@@ -2,7 +2,7 @@
 layout: post
 title: I'll Fly Away
 link: http://experimentaltheology.blogspot.com/2012/02/ill-fly-away.html
-date: 2012-02-02 10:26:00
+date: 2012-02-02 10:26:00 -0600
 ---
 
 Richard Beck:

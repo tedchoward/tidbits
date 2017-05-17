@@ -2,7 +2,7 @@
 layout: post
 title: The Illusion of Privacy
 link: http://www.givoly.com/2012/01/31/the-illusion-of-privacy/
-date: 2012-02-01 09:44:00
+date: 2012-02-01 09:44:00 -0600
 ---
 
 Tal Givoly:

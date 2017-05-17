@@ -2,7 +2,7 @@
 layout: post
 title: They Were Right (And Wrong) About The Slippery Slope
 link: http://rachelheldevans.com/they-were-right-about-slippery-slope
-date: 2012-01-31 11:16:00
+date: 2012-01-31 11:16:00 -0600
 ---
 
 Rachel Held Evans:

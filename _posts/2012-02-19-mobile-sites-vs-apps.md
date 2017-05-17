@@ -2,7 +2,7 @@
 layout: post
 title: "Mobile Sites vs. Apps: The Coming Strategy Shift"
 link: http://www.useit.com/alertbox/mobile-sites-apps.html
-date: 2012-02-19 12:51:00
+date: 2012-02-19 12:51:00 -0600
 ---
 
 Jakob Nielsen:

@@ -2,7 +2,7 @@
 layout: post
 title: Defined as a problem...
 link: http://larryjamesurbandaily.blogspot.com/2012/05/defined-as-problem.html
-date: 2012-05-11 16:58:00
+date: 2012-05-11 16:58:00 -0500
 ---
 
 Larry James:

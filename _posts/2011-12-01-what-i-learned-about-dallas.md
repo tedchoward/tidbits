@@ -2,7 +2,7 @@
 layout: post
 title: "What I Learned About Dallas From Watching Top Chef: Texas"
 link: http://frontburner.dmagazine.com/2011/12/01/what-i-learned-about-dallas-from-watching-top-chef-texas/
-date: 2011-12-01 13:21:00
+date: 2011-12-01 13:21:00 -0600
 ---
 
 Jason Heid collects some choice quotes from various national media

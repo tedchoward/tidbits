@@ -2,7 +2,7 @@
 layout: post
 title: 'One "L" or or Two?'
 link: http://www.dailywritingtips.com/one-l-or-two/
-date: 2012-01-27 09:52:00
+date: 2012-01-27 09:52:00 -0600
 ---
 
 The question just came up at work, do you use one "l" or two when you

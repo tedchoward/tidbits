@@ -2,7 +2,7 @@
 layout: post
 title: History Never Sits Still. Thus Neither Can Our Politics
 link: http://experimentaltheology.blogspot.com/2012/08/history-never-sits-still-thus-neither.html
-date: 2012-08-27 09:48:00
+date: 2012-08-27 09:48:00 -0500
 ---
 
 Lee C. Camp:

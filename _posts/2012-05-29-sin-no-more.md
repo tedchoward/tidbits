@@ -2,7 +2,7 @@
 layout: post
 title: "Sin No More"
 link: http://experimentaltheology.blogspot.com/2012/05/sin-no-more.html
-date: 2012-05-29 09:39:00
+date: 2012-05-29 09:39:00 -0500
 ---
 
 This is a nice follow up to Richard Beck's [post on John 8.1-11][1]. He

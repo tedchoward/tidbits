@@ -2,7 +2,7 @@
 layout: post
 title: Blessed are the entitled?
 link: http://rachelheldevans.com/blessed-are-the-entitled
-date: 2011-12-09 09:21:00
+date: 2011-12-09 09:21:00 -0600
 ---
 
 Rachel Held Evans:

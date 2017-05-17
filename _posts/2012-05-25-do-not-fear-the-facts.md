@@ -2,7 +2,7 @@
 layout: post
 title: Do Not Fear the Facts
 link: http://www.patheos.com/blogs/jesuscreed/2012/05/25/where-do-we-go-from-here/
-date: 2012-05-25 09:45:00
+date: 2012-05-25 09:45:00 -0500
 ---
 
 Scot McKnight:

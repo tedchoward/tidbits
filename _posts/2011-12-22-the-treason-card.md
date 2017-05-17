@@ -2,7 +2,7 @@
 layout: post
 title: The Treason Card
 link: http://andrewsullivan.thedailybeast.com/2011/12/the-treason-card.html
-date: 2011-12-22 11:45:00
+date: 2011-12-22 11:45:00 -0600
 ---
 
 Andrew Sullivan:

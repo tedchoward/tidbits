@@ -2,7 +2,7 @@
 layout: post
 title: Paul wants to phase out federal student loans
 link: http://articles.boston.com/2011-10-23/news/30313998_1_student-loans-loan-program-college-students
-date: 2011-10-24 10:30:05
+date: 2011-10-24 10:30:05 -0500
 ---
 
 Associated Press:

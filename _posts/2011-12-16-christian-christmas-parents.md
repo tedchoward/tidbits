@@ -2,7 +2,7 @@
 layout: post
 title: The Four Types of Christian Christmas Parents
 link: http://www.jonacuff.com/stuffchristianslike/2011/12/questioning-peoples-parenting-skills-by-the-gifts-they-give-their-kids/
-date: 2011-12-16 10:44:00
+date: 2011-12-16 10:44:00 -0600
 ---
 
 John Crist:

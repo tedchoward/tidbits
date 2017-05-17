@@ -2,7 +2,7 @@
 layout: post
 title: One Grain More
 link: http://youtu.be/k9QbC41oQRo
-date: 2013-01-31 09:20:00
+date: 2013-01-31 09:20:00 -0600
 ---
 
 This is just brilliant. With the new Les Misérables movie, I've often

@@ -2,7 +2,7 @@
 layout: post
 title: Fairgoers spend $35 million on food and rides
 link: http://bigtex.ntelligentsystems.com/ns/Announcements/ViewAnnouncement.asp?PRelId=46
-date: 2011-10-24 08:51:10
+date: 2011-10-24 08:51:10 -0500
 ---
 
 The State Fair of Texas:

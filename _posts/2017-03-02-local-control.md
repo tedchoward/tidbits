@@ -1,6 +1,6 @@
 ---
 layout: micro
-date: 2017-03-02 14:49:00
+date: 2017-03-02 14:49:00 -0600
 ---
 
 The DMN editorial board is

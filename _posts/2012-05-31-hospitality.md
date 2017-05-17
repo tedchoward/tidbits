@@ -2,7 +2,7 @@
 layout: post
 title: Hospitality
 link: http://danbouchelle.blogspot.com/2012/05/where-saying-thank-you-is-insult.html
-date: 2012-05-31 10:43:00
+date: 2012-05-31 10:43:00 -0500
 ---
 
 Dan Bouchelle:

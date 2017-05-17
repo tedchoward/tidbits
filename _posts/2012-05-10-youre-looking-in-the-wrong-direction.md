@@ -2,7 +2,7 @@
 layout: post
 title: You're Looking in the Wrong Direction
 link: http://www.carfreeinbigd.com/2012/05/youre-looking-in-wrong-direction.html
-date: 2012-05-10 15:37:00
+date: 2012-05-10 15:37:00 -0500
 ---
 
 Patrick Kennedy:

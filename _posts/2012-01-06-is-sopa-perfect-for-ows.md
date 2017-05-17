@@ -2,7 +2,7 @@
 layout: post
 title: Is SOPA Perfect for OWS?
 link: http://scripting.com/stories/2012/01/06/isSopaPerfectForOws.html
-date: 2012-01-06 09:56:00
+date: 2012-01-06 09:56:00 -0600
 ---
 
 Dave Winer:

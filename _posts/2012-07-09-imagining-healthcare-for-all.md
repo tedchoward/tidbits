@@ -2,7 +2,7 @@
 layout: post
 title: Imagining Healthcare for All
 link: http://www.patheos.com/blogs/jonathanwilsonhartgrove/2012/07/seeing-is-believing-imagining-heathcare-for-all/
-date: 2012-07-09 10:08:00
+date: 2012-07-09 10:08:00 -0500
 ---
 
 Jonathan Wilson-Hartgrove

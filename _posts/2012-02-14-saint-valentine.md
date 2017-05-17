@@ -2,7 +2,7 @@
 layout: post
 title: Saint Valentine
 link: http://en.wikipedia.org/wiki/Saint_Valentine
-date: 2012-02-14 09:45:00
+date: 2012-02-14 09:45:00 -0600
 ---
 
 Wikipedia:

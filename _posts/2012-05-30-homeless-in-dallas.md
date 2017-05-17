@@ -2,7 +2,7 @@
 layout: post
 title: There Are More Homeless Children in Dallas Than Ever
 link: http://blogs.dallasobserver.com/unfairpark/2012/05/study_finds_homelessness_in_da.php
-date: 2012-05-30 09:57:00
+date: 2012-05-30 09:57:00 -0500
 ---
 
 Anna Merlan:

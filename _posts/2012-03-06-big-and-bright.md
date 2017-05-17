@@ -2,7 +2,7 @@
 layout: post
 title: Big & Bright chosen as theme for 2012 Fair
 link: http://bigtex.ntelligentsystems.com/ns/Announcements/ViewAnnouncement.asp?PRelId=50
-date: 2012-03-06 17:04:00
+date: 2012-03-06 17:04:00 -0600
 ---
 
 Big Tex:

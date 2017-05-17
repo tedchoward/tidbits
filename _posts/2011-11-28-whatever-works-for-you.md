@@ -2,7 +2,7 @@
 layout: post
 title: Whatever Works For You
 link: http://www.marco.org/2011/11/28/whatever-works-for-you
-date: 2011-11-28 11:18:00
+date: 2011-11-28 11:18:00 -0600
 ---
 
 Marco Arment:

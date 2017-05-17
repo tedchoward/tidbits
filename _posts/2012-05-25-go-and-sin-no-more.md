@@ -2,7 +2,7 @@
 layout: post
 title: Go And Sin No More
 link: http://experimentaltheology.blogspot.com/2012/05/go-and-sin-no-more.html
-date: 2012-05-25 10:11:00
+date: 2012-05-25 10:11:00 -0500
 ---
 
 Speaking of [not fearing we are reading the Bible wrong][1], Richard

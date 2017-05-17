@@ -2,7 +2,7 @@
 layout: post
 title: An Advent Thought From Megan
 link: http://smallways.wordpress.com/2011/12/22/waiting-for-baby-jesus-and-baby-henry/
-date: 2011-12-22 10:04:00
+date: 2011-12-22 10:04:00 -0600
 ---
 
 Megan Howard:

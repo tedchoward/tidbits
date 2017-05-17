@@ -2,7 +2,7 @@
 layout: post
 title: The Case Against Google
 link: http://gizmodo.com/5895010
-date: 2012-03-23 10:55:00
+date: 2012-03-23 10:55:00 -0500
 ---
 
 Mat Honan:

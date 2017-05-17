@@ -2,7 +2,7 @@
 layout: post
 title: The View From Nowhere
 link: http://pressthink.org/2010/11/the-view-from-nowhere-questions-and-answers/
-date: 2011-12-20 11:12:00
+date: 2011-12-20 11:12:00 -0600
 ---
 
 Jay Rosen:

@@ -2,7 +2,7 @@
 layout: post
 title: A Restless Patriotism
 link: http://experimentaltheology.blogspot.com/2012/08/a-restless-patriotism.html
-date: 2012-08-23 09:54:00
+date: 2012-08-23 09:54:00 -0500
 ---
 
 Richard Beck:

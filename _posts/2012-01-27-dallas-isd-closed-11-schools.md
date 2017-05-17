@@ -2,7 +2,7 @@
 layout: post
 title: Dallas ISD Trustees Closed 11 Schools Last Night
 link: http://blogs.dallasobserver.com/unfairpark/2012/01/disd_school_closings.php
-date: 2012-01-27 10:30:00
+date: 2012-01-27 10:30:00 -0600
 ---
 
 Greg Howard (no relation):

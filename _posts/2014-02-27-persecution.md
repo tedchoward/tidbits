@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Persecution
-date: 2014-02-27 11:00:00
+date: 2014-02-27 11:00:00 -0600
 ---
 
 Yesterday, I posted a link to an article by Rachel Held Evans on [walking

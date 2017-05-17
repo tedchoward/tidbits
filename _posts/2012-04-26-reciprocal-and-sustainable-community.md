@@ -2,7 +2,7 @@
 layout: post
 title: Reciprocal and Sustainable Community
 link: http://loveiswhatyoudo.wordpress.com/2012/04/26/693/
-date: 2012-04-26 10:10:00
+date: 2012-04-26 10:10:00 -0500
 ---
 
 Ann and Derran Reese:

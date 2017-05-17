@@ -2,7 +2,7 @@
 layout: post
 title: He Has a Dream
 link: http://danbouchelle.blogspot.com/2011/12/he-has-dream.html
-date: 2011-12-16 11:00:00
+date: 2011-12-16 11:00:00 -0600
 ---
 
 Dan Bouchelle:

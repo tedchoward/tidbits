@@ -2,7 +2,7 @@
 layout: post
 title: Pizza Hut Now Serving Vegetables
 link: http://blogs.dallasobserver.com/cityofate/2011/11/sign_o_the_times_pizza_climbs.php
-date: 2011-11-29 10:25:00
+date: 2011-11-29 10:25:00 -0600
 ---
 
 Nick Rallo:
