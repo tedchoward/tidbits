@@ -16,7 +16,7 @@
       "id": "{{ site.url}}{{ post.url }}",
       "url": "{{ site.url }}{{ post.url }}",{% if post.link %}
       "external_url": "{{ post.link }}",{% endif %}
-      "content_html": "{{ post.content | jsonify }}",
+      "content_html": {{ post.content | jsonify }},
       "date_published": "{{ post.date | date: "%FT%H:%M:%S%z" }}"{% if post.enclosure %}
       "attachments": [
         {
