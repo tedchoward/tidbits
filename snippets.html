@@ -1,0 +1,8 @@
+---
+layout: default
+---
+{% for post in site.posts %}
+  {% if post.layout == "micro" %}
+  {% include micro-post.html %}
+  {% endif %}
+{% endfor %}
