@@ -29,4 +29,4 @@ So, what does this say about me? Have I become a *dog person*? I don’t know ab
 
 ![me and the hank dog][1]
 
- [1]: http://tedchoward.com/blog/wp-content/uploads/2009/10/dscn1502.JPG
+ [1]: /images/2009/10/dscn1502.JPG
