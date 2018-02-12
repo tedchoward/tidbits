@@ -2,7 +2,9 @@
 layout: default
 ---
 {% for post in paginator.posts %}
-  {% if post.layout != "micro" %}
+  {% if post.layout == "micro" %}
+  {% include micro-post.html %}
+  {% else %}
   {% include full-post.html %}
   {% endif %}
   {% unless forloop.last or post.layout == "micro" %}<hr>{% endunless %}
